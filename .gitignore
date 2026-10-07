@@ -1,0 +1,8 @@
+# Third-party material, deliberately not vendored (see README.md "第三方材料")
+# lit/DiskCoveringSolve has no LICENSE file; it is used read-only as a reference
+# and is re-obtainable from https://github.com/VonEquinox/DiskCoveringSolve
+lit/
+
+# Python bytecode
+__pycache__/
+*.pyc

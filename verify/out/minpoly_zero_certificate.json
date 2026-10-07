@@ -1,0 +1,158 @@
+{
+ "all_passed": true,
+ "checks": [
+  {
+   "check": "L1 g3-g5 = A1 v - A0  (mod f4)",
+   "passed": true
+  },
+  {
+   "check": "L1 (A1^2 g3 - E3) divisible by (A1 v - A0)",
+   "passed": true
+  },
+  {
+   "check": "L2 (A1^k F6 - DET) divisible by (A1 v - A0)",
+   "passed": true
+  },
+  {
+   "check": "L3 R3 == rem_u(E3)",
+   "passed": true
+  },
+  {
+   "check": "L3 R6 == rem_u(DET)",
+   "passed": true
+  },
+  {
+   "check": "L3 a1 u + b1 == R3",
+   "passed": true
+  },
+  {
+   "check": "L3 a2 u + b2 == R6",
+   "passed": true
+  },
+  {
+   "check": "L4 gam1: (a^2 f2 - gam) divisible by (a u + b)",
+   "passed": true
+  },
+  {
+   "check": "L4 gam2: (a^2 f2 - gam) divisible by (a u + b)",
+   "passed": true
+  },
+  {
+   "check": "L5 gam1_red = A1c + B1c s",
+   "passed": true
+  },
+  {
+   "check": "L5 gam2_red = A2c + B2c s",
+   "passed": true
+  },
+  {
+   "check": "L5 cross = B2c gam1_red - B1c gam2_red is in I, and R1 = cross mod (z^2-3)",
+   "passed": true
+  },
+  {
+   "check": "L5 norm2 = gam1_red (A1c - B1c s) + B1c^2 (s^2+c^2-1)  [norm2 in I]",
+   "passed": true
+  },
+  {
+   "check": "L5 R2 = norm2 mod (z^2-3)",
+   "passed": true
+  },
+  {
+   "check": "L6 alpha1 == 0",
+   "passed": true
+  },
+  {
+   "check": "L6 beta2 == 0",
+   "passed": true
+  },
+  {
+   "check": "L6 R1 == beta1 z  (as reduced form)",
+   "passed": true
+  },
+  {
+   "check": "L6 R2 == alpha2",
+   "passed": true
+  },
+  {
+   "check": "L6 S2 == -3 beta1^2",
+   "passed": true
+  },
+  {
+   "check": "L6 V == alpha2^2",
+   "passed": true
+  },
+  {
+   "check": "L7 S2 == content * prod f^m",
+   "passed": true
+  },
+  {
+   "check": "L7 V  == content * prod f^m",
+   "passed": true
+  },
+  {
+   "check": "L7 F is (up to constant) the degree-(22,13) factor of S2",
+   "passed": true
+  },
+  {
+   "check": "L7 G is (up to constant) the degree-(20,10) factor of V",
+   "passed": true
+  },
+  {
+   "check": "L8 all S2 cofactors non-zero on the box",
+   "passed": true
+  },
+  {
+   "check": "L8 all V cofactors non-zero on the box",
+   "passed": true
+  },
+  {
+   "check": "L8 => F(c_*,r_*) = 0 and G(c_*,r_*) = 0",
+   "passed": true
+  },
+  {
+   "check": "L9 lc_c(F)(r_*) != 0",
+   "passed": true,
+   "sign": "+",
+   "lo_float": 59656.605434715326,
+   "hi_float": 59656.605434715326
+  },
+  {
+   "check": "L9 lc_c(G)(r_*) != 0",
+   "passed": true,
+   "sign": "+",
+   "lo_float": 41146.87090925891,
+   "hi_float": 41146.87090925891
+  },
+  {
+   "check": "L9 E(r) = Res_c(F,G)",
+   "passed": true,
+   "E_degree": 444
+  },
+  {
+   "check": "L10 exactly one irreducible factor of E can vanish on the r-box",
+   "passed": true,
+   "deg": 37
+  },
+  {
+   "check": "L10 the vanishing factor is the candidate P (degree 37)",
+   "passed": true
+  },
+  {
+   "check": "L10 => P(r_*) = 0",
+   "passed": true
+  }
+ ],
+ "E_degree": 444,
+ "E_factor_degrees": [
+  1,
+  1,
+  1,
+  2,
+  5,
+  6,
+  18,
+  37,
+  65
+ ],
+ "P_degree": 37
+}

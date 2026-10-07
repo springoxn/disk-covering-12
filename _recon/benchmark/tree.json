@@ -1,0 +1,3797 @@
+{
+ "sha": "122ba78c748303f4d590d20c7df16630dba51fd2",
+ "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/trees/122ba78c748303f4d590d20c7df16630dba51fd2",
+ "tree": [
+  {
+   "path": ".gitattributes",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "4620229a4e70cf686278df99f789f5eb870722c4",
+   "size": 99,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/4620229a4e70cf686278df99f789f5eb870722c4"
+  },
+  {
+   "path": ".gitignore",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "334587307a21a7ecbe5713688cef24830680ee76",
+   "size": 77,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/334587307a21a7ecbe5713688cef24830680ee76"
+  },
+  {
+   "path": "AGENTS.en.md",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "aad041c5c1a3cce7a38391fb5ec5ad99f9818036",
+   "size": 2494,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/aad041c5c1a3cce7a38391fb5ec5ad99f9818036"
+  },
+  {
+   "path": "AGENTS.md",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "976c2e825354bca466c9350f709738967f69df18",
+   "size": 2561,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/976c2e825354bca466c9350f709738967f69df18"
+  },
+  {
+   "path": "AGENT_INSTALL.md",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "a52d5887cfb8479018f818bd7576a4b2381d978b",
+   "size": 2064,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/a52d5887cfb8479018f818bd7576a4b2381d978b"
+  },
+  {
+   "path": "LICENSE",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "b6d973b25c35c5ca4fd77e44c3dda3d2f792cca3",
+   "size": 1067,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/b6d973b25c35c5ca4fd77e44c3dda3d2f792cca3"
+  },
+  {
+   "path": "README.en.md",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "b2d11bdfc4ddb895191102ee75283c14739699e1",
+   "size": 3270,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/b2d11bdfc4ddb895191102ee75283c14739699e1"
+  },
+  {
+   "path": "README.md",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "b2d11bdfc4ddb895191102ee75283c14739699e1",
+   "size": 3270,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/b2d11bdfc4ddb895191102ee75283c14739699e1"
+  },
+  {
+   "path": "README.zh.md",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "6215434fc8596a869018026ee7cbb2feba984b91",
+   "size": 2857,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/6215434fc8596a869018026ee7cbb2feba984b91"
+  },
+  {
+   "path": "SHA256SUMS",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "c83eae96269fedefdd2c46f8d99e45b9c5cd8afc",
+   "size": 42851,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/c83eae96269fedefdd2c46f8d99e45b9c5cd8afc"
+  },
+  {
+   "path": "SHA256SUMS.txt",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "c83eae96269fedefdd2c46f8d99e45b9c5cd8afc",
+   "size": 42851,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/c83eae96269fedefdd2c46f8d99e45b9c5cd8afc"
+  },
+  {
+   "path": "benchmark.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "391deabad000797700cdc7abdb0c4672ccacb6a8",
+   "size": 23561,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/391deabad000797700cdc7abdb0c4672ccacb6a8"
+  },
+  {
+   "path": "docs",
+   "mode": "040000",
+   "type": "tree",
+   "sha": "3a7a3f8c03cb661320137402cdf3fc29ea45249a",
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/trees/3a7a3f8c03cb661320137402cdf3fc29ea45249a"
+  },
+  {
+   "path": "docs/.nojekyll",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+   "size": 0,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391"
+  },
+  {
+   "path": "docs/LICENSE.txt",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "b6d973b25c35c5ca4fd77e44c3dda3d2f792cca3",
+   "size": 1067,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/b6d973b25c35c5ca4fd77e44c3dda3d2f792cca3"
+  },
+  {
+   "path": "docs/about.en.html",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "622c3fcb13c29432e9a095287af51ed5589d894c",
+   "size": 9999,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/622c3fcb13c29432e9a095287af51ed5589d894c"
+  },
+  {
+   "path": "docs/about.html",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "622c3fcb13c29432e9a095287af51ed5589d894c",
+   "size": 9999,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/622c3fcb13c29432e9a095287af51ed5589d894c"
+  },
+  {
+   "path": "docs/about.zh.html",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "e6e6c6796c37cd10d740ec379eb5db9040648317",
+   "size": 9190,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/e6e6c6796c37cd10d740ec379eb5db9040648317"
+  },
+  {
+   "path": "docs/agents.en.html",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "94e1989c75f71e650fac30180db94a4adaae8c71",
+   "size": 8974,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/94e1989c75f71e650fac30180db94a4adaae8c71"
+  },
+  {
+   "path": "docs/agents.html",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "94e1989c75f71e650fac30180db94a4adaae8c71",
+   "size": 8974,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/94e1989c75f71e650fac30180db94a4adaae8c71"
+  },
+  {
+   "path": "docs/agents.zh.html",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "04e9b2045981b4961135c0e77066f564b756749a",
+   "size": 9127,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/04e9b2045981b4961135c0e77066f564b756749a"
+  },
+  {
+   "path": "docs/algorithm-runs-20261001.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "c55b57fa702967641d66c1dfab260d0c210ae442",
+   "size": 24676,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/c55b57fa702967641d66c1dfab260d0c210ae442"
+  },
+  {
+   "path": "docs/answer-protocol.en.txt",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "8d6d2de0bdc89ec537296348a77cca7bb23a8ae2",
+   "size": 4951,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/8d6d2de0bdc89ec537296348a77cca7bb23a8ae2"
+  },
+  {
+   "path": "docs/answer-protocol.txt",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "00440accb4fe071ce165754ea15423dcd6bd8394",
+   "size": 4077,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/00440accb4fe071ce165754ea15423dcd6bd8394"
+  },
+  {
+   "path": "docs/app.js",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "b7f51d49cd524af67406dc43d77f21f0fe832e0d",
+   "size": 2863,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/b7f51d49cd524af67406dc43d77f21f0fe832e0d"
+  },
+  {
+   "path": "docs/assets",
+   "mode": "040000",
+   "type": "tree",
+   "sha": "f2615a3e0064b13722c825b5d58fb5b9cd3c8ae0",
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/trees/f2615a3e0064b13722c825b5d58fb5b9cd3c8ae0"
+  },
+  {
+   "path": "docs/assets/n11.svg",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "7daa36cff52c7b620c89add78e8675a229456dd0",
+   "size": 2426,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/7daa36cff52c7b620c89add78e8675a229456dd0"
+  },
+  {
+   "path": "docs/assets/n12.svg",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "b7dc43ee147d5eb3f1d9aba14cefd6d49672c547",
+   "size": 2592,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/b7dc43ee147d5eb3f1d9aba14cefd6d49672c547"
+  },
+  {
+   "path": "docs/assets/n13.svg",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "4a23bf3470c56b1ff72668253d8a941c64c7cff5",
+   "size": 1439,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/4a23bf3470c56b1ff72668253d8a941c64c7cff5"
+  },
+  {
+   "path": "docs/assets/n14.svg",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "7fb5c184e412e234cd0903029f92731495e8042f",
+   "size": 2924,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/7fb5c184e412e234cd0903029f92731495e8042f"
+  },
+  {
+   "path": "docs/assets/n15.svg",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "62dbef6d53d6135e4a07e456e704decdff9e71d5",
+   "size": 1585,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/62dbef6d53d6135e4a07e456e704decdff9e71d5"
+  },
+  {
+   "path": "docs/assets/n16.svg",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "9e2189ccfbd0a8be8a6e95d5447ee0d883d8f8f0",
+   "size": 3255,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/9e2189ccfbd0a8be8a6e95d5447ee0d883d8f8f0"
+  },
+  {
+   "path": "docs/assets/n17.svg",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "92e2aa6d7e8906a0f932d43e8a3b94e1167fa67f",
+   "size": 1731,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/92e2aa6d7e8906a0f932d43e8a3b94e1167fa67f"
+  },
+  {
+   "path": "docs/assets/n18.svg",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "db4561e680cfbabcfb934d8e09368babd7c0b779",
+   "size": 1804,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/db4561e680cfbabcfb934d8e09368babd7c0b779"
+  },
+  {
+   "path": "docs/assets/n19.svg",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "290cc6d90274abb2b2be622b2ff0c6d87e6fe771",
+   "size": 3754,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/290cc6d90274abb2b2be622b2ff0c6d87e6fe771"
+  },
+  {
+   "path": "docs/assets/n20.svg",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "04735d6953e0222eb27f1a01d7a2feba04adadb6",
+   "size": 1950,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/04735d6953e0222eb27f1a01d7a2feba04adadb6"
+  },
+  {
+   "path": "docs/assets/n21.svg",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "7eb8b1226bd4d2d0d0cb862984f357acaf7c6469",
+   "size": 2023,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/7eb8b1226bd4d2d0d0cb862984f357acaf7c6469"
+  },
+  {
+   "path": "docs/assets/n22.svg",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "277f4e239bc16ce2205d8667e935d66b3a32a8ee",
+   "size": 4252,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/277f4e239bc16ce2205d8667e935d66b3a32a8ee"
+  },
+  {
+   "path": "docs/assets/n23.svg",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "ec4596304d2edfdeecf2dca1923f1675b1e959ec",
+   "size": 2169,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/ec4596304d2edfdeecf2dca1923f1675b1e959ec"
+  },
+  {
+   "path": "docs/assets/n24.svg",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "40d4f8a2a0f236e185e8b0c8a0b169bd88a3db36",
+   "size": 2242,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/40d4f8a2a0f236e185e8b0c8a0b169bd88a3db36"
+  },
+  {
+   "path": "docs/assets/n25.svg",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "46a6fd30bc5a3eff2576467c9e9b68fc05056e6c",
+   "size": 4750,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/46a6fd30bc5a3eff2576467c9e9b68fc05056e6c"
+  },
+  {
+   "path": "docs/assets/n26.svg",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "70166c55cdfc6e1ceac747641e8194fc753748b9",
+   "size": 4916,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/70166c55cdfc6e1ceac747641e8194fc753748b9"
+  },
+  {
+   "path": "docs/assets/n27.svg",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "d5c5eaf46c58169b2e781aaf6e6e5b306d846ea0",
+   "size": 5082,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/d5c5eaf46c58169b2e781aaf6e6e5b306d846ea0"
+  },
+  {
+   "path": "docs/assets/n28.svg",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "9c92311d2a91466c48769ca518d7faa642338c5d",
+   "size": 2534,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/9c92311d2a91466c48769ca518d7faa642338c5d"
+  },
+  {
+   "path": "docs/assets/n29.svg",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "b24c41f76c52705a8a894621503a14e7e82275f2",
+   "size": 2607,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/b24c41f76c52705a8a894621503a14e7e82275f2"
+  },
+  {
+   "path": "docs/assets/n30.svg",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "f53d3a7e2c863e06bbeb3ea167201cda2896f0be",
+   "size": 2680,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/f53d3a7e2c863e06bbeb3ea167201cda2896f0be"
+  },
+  {
+   "path": "docs/background.en.html",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "4d06ee79443c02ffe9739edf0319142cc508c178",
+   "size": 7874,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/4d06ee79443c02ffe9739edf0319142cc508c178"
+  },
+  {
+   "path": "docs/background.en.md",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "dcd68badd6357eaa6bcae708468f390f6ff712b9",
+   "size": 1897,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/dcd68badd6357eaa6bcae708468f390f6ff712b9"
+  },
+  {
+   "path": "docs/background.html",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "4d06ee79443c02ffe9739edf0319142cc508c178",
+   "size": 7874,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/4d06ee79443c02ffe9739edf0319142cc508c178"
+  },
+  {
+   "path": "docs/background.md",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "13a42e08727874ef46b318859e6dd1fb7a38c49f",
+   "size": 1724,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/13a42e08727874ef46b318859e6dd1fb7a38c49f"
+  },
+  {
+   "path": "docs/background.zh.html",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "03b0077d181d086fa3fbd7312a4679c8560e17cd",
+   "size": 7491,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/03b0077d181d086fa3fbd7312a4679c8560e17cd"
+  },
+  {
+   "path": "docs/benchmark.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "3f7dbe2d9cff30542b5b4304cd8e03e2dc9ed77c",
+   "size": 23896,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/3f7dbe2d9cff30542b5b4304cd8e03e2dc9ed77c"
+  },
+  {
+   "path": "docs/catalog.en.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "1f4c89c33da438e9c1499e8350e2b3fdb248319b",
+   "size": 4877,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/1f4c89c33da438e9c1499e8350e2b3fdb248319b"
+  },
+  {
+   "path": "docs/catalog.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "1f4c89c33da438e9c1499e8350e2b3fdb248319b",
+   "size": 4877,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/1f4c89c33da438e9c1499e8350e2b3fdb248319b"
+  },
+  {
+   "path": "docs/catalog.zh.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "2ad29e0796700802c5c8d1b26363858107b0d898",
+   "size": 4996,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/2ad29e0796700802c5c8d1b26363858107b0d898"
+  },
+  {
+   "path": "docs/check_tools.py",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "aebf883a4b863e418f98bd36932735f3db1508cb",
+   "size": 6395,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/aebf883a4b863e418f98bd36932735f3db1508cb"
+  },
+  {
+   "path": "docs/delivery.en.html",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "636cc92eab928816de9fe41ac5631621230dd9c6",
+   "size": 7524,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/636cc92eab928816de9fe41ac5631621230dd9c6"
+  },
+  {
+   "path": "docs/delivery.en.md",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "f20b8b1405ef8a8b007ae492db8cee87d3975294",
+   "size": 1730,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/f20b8b1405ef8a8b007ae492db8cee87d3975294"
+  },
+  {
+   "path": "docs/delivery.html",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "636cc92eab928816de9fe41ac5631621230dd9c6",
+   "size": 7524,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/636cc92eab928816de9fe41ac5631621230dd9c6"
+  },
+  {
+   "path": "docs/delivery.md",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "ab2cde92a779486a8cf8a434da8d3cc0528f6c07",
+   "size": 1452,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/ab2cde92a779486a8cf8a434da8d3cc0528f6c07"
+  },
+  {
+   "path": "docs/delivery.zh.html",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "e9e95d18852b573667ca896346c2590231198991",
+   "size": 6945,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/e9e95d18852b573667ca896346c2590231198991"
+  },
+  {
+   "path": "docs/diskcover_answer.py",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "e18d84236e15ecf9392014ea392c65f02a8e6a46",
+   "size": 3729,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/e18d84236e15ecf9392014ea392c65f02a8e6a46"
+  },
+  {
+   "path": "docs/guide.en.html",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "b86700a968ddbdb195eb50a94e76a2d9b16127f6",
+   "size": 16435,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/b86700a968ddbdb195eb50a94e76a2d9b16127f6"
+  },
+  {
+   "path": "docs/guide.html",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "b86700a968ddbdb195eb50a94e76a2d9b16127f6",
+   "size": 16435,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/b86700a968ddbdb195eb50a94e76a2d9b16127f6"
+  },
+  {
+   "path": "docs/guide.zh.html",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "8401b39588845cdb25fef608916b7131bfa835b1",
+   "size": 14748,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/8401b39588845cdb25fef608916b7131bfa835b1"
+  },
+  {
+   "path": "docs/index-page-2.en.html",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "a8bafcf9781fbb9643d5dc5e2c6b3d8bcb7d9676",
+   "size": 6151,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/a8bafcf9781fbb9643d5dc5e2c6b3d8bcb7d9676"
+  },
+  {
+   "path": "docs/index-page-2.html",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "a8bafcf9781fbb9643d5dc5e2c6b3d8bcb7d9676",
+   "size": 6151,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/a8bafcf9781fbb9643d5dc5e2c6b3d8bcb7d9676"
+  },
+  {
+   "path": "docs/index-page-2.zh.html",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "db05bb66d52dab677508f3e2e84bc04d32aec9c1",
+   "size": 5982,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/db05bb66d52dab677508f3e2e84bc04d32aec9c1"
+  },
+  {
+   "path": "docs/index.en.html",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "ee39e9ef6779e56b73e3661847576dfb7835bd8a",
+   "size": 6938,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/ee39e9ef6779e56b73e3661847576dfb7835bd8a"
+  },
+  {
+   "path": "docs/index.html",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "ee39e9ef6779e56b73e3661847576dfb7835bd8a",
+   "size": 6938,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/ee39e9ef6779e56b73e3661847576dfb7835bd8a"
+  },
+  {
+   "path": "docs/index.zh.html",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "b1abe7d889afbcf32ae12ab6c20e4dfa350203bb",
+   "size": 6717,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/b1abe7d889afbcf32ae12ab6c20e4dfa350203bb"
+  },
+  {
+   "path": "docs/language.js",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "2847d642b1156e6975a54e749713095c2ae98e34",
+   "size": 2064,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/2847d642b1156e6975a54e749713095c2ae98e34"
+  },
+  {
+   "path": "docs/maintenance.en.html",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "e4718f6bc2d79f9780b8c851e12bf0d75ef6131b",
+   "size": 5467,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/e4718f6bc2d79f9780b8c851e12bf0d75ef6131b"
+  },
+  {
+   "path": "docs/maintenance.html",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "e4718f6bc2d79f9780b8c851e12bf0d75ef6131b",
+   "size": 5467,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/e4718f6bc2d79f9780b8c851e12bf0d75ef6131b"
+  },
+  {
+   "path": "docs/maintenance.zh.html",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "f900999889ff95832f9d69978dea3491b852602a",
+   "size": 5210,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/f900999889ff95832f9d69978dea3491b852602a"
+  },
+  {
+   "path": "docs/math-config.js",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "57a4d671af6ceb4e2316ac18050195b4bf6801d4",
+   "size": 580,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/57a4d671af6ceb4e2316ac18050195b4bf6801d4"
+  },
+  {
+   "path": "docs/n11.en.html",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "68e30828ca486e7ac155d3bfdf2f5f0cbdc5993e",
+   "size": 13728,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/68e30828ca486e7ac155d3bfdf2f5f0cbdc5993e"
+  },
+  {
+   "path": "docs/n11.html",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "68e30828ca486e7ac155d3bfdf2f5f0cbdc5993e",
+   "size": 13728,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/68e30828ca486e7ac155d3bfdf2f5f0cbdc5993e"
+  },
+  {
+   "path": "docs/n11.zh.html",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "464502aa310116ec9d2546d81b2e6fb3e129df71",
+   "size": 12389,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/464502aa310116ec9d2546d81b2e6fb3e129df71"
+  },
+  {
+   "path": "docs/n12-astra-20261001-history.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "5230a617f252208aaa02be5df2c3bb536269a7f5",
+   "size": 5261,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/5230a617f252208aaa02be5df2c3bb536269a7f5"
+  },
+  {
+   "path": "docs/n12-history.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "8159b12c3eeb27ae5d779c7a2ec8508d532add66",
+   "size": 15417,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/8159b12c3eeb27ae5d779c7a2ec8508d532add66"
+  },
+  {
+   "path": "docs/n12.en.html",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "5847dffcf900d720f9898e658a08be2acaddabb9",
+   "size": 13730,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/5847dffcf900d720f9898e658a08be2acaddabb9"
+  },
+  {
+   "path": "docs/n12.html",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "5847dffcf900d720f9898e658a08be2acaddabb9",
+   "size": 13730,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/5847dffcf900d720f9898e658a08be2acaddabb9"
+  },
+  {
+   "path": "docs/n12.zh.html",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "578ac8e9c927089e7435b0fb851fb9c2f4775101",
+   "size": 12391,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/578ac8e9c927089e7435b0fb851fb9c2f4775101"
+  },
+  {
+   "path": "docs/n13-history.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "77b8ab0e3586e77fd9e6dde511a784f3cc79ff11",
+   "size": 55431,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/77b8ab0e3586e77fd9e6dde511a784f3cc79ff11"
+  },
+  {
+   "path": "docs/n13.en.html",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "7866e7cc5ae2ea4790c1b451f6bf767a5f0439d6",
+   "size": 13301,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/7866e7cc5ae2ea4790c1b451f6bf767a5f0439d6"
+  },
+  {
+   "path": "docs/n13.html",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "7866e7cc5ae2ea4790c1b451f6bf767a5f0439d6",
+   "size": 13301,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/7866e7cc5ae2ea4790c1b451f6bf767a5f0439d6"
+  },
+  {
+   "path": "docs/n13.zh.html",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "d1fbadea68ec2bf70439c1b91120a2d5c10ca395",
+   "size": 11919,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/d1fbadea68ec2bf70439c1b91120a2d5c10ca395"
+  },
+  {
+   "path": "docs/n14.en.html",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "19ce086b77a61aca54ba574f9030cd859f663328",
+   "size": 13181,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/19ce086b77a61aca54ba574f9030cd859f663328"
+  },
+  {
+   "path": "docs/n14.html",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "19ce086b77a61aca54ba574f9030cd859f663328",
+   "size": 13181,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/19ce086b77a61aca54ba574f9030cd859f663328"
+  },
+  {
+   "path": "docs/n14.zh.html",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "823e2098bad7af58212f98839068fef2b6489f3c",
+   "size": 11814,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/823e2098bad7af58212f98839068fef2b6489f3c"
+  },
+  {
+   "path": "docs/n15.en.html",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "2defada3513739417b9e5c487da0ea06bbe3165b",
+   "size": 12960,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/2defada3513739417b9e5c487da0ea06bbe3165b"
+  },
+  {
+   "path": "docs/n15.html",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "2defada3513739417b9e5c487da0ea06bbe3165b",
+   "size": 12960,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/2defada3513739417b9e5c487da0ea06bbe3165b"
+  },
+  {
+   "path": "docs/n15.zh.html",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "0594c17833f875979efada78bf1f2a21a4239dcc",
+   "size": 11552,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/0594c17833f875979efada78bf1f2a21a4239dcc"
+  },
+  {
+   "path": "docs/n16.en.html",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "9c2fbbe2a8e8bed7e264f4f06c6c3072d3a9c61c",
+   "size": 13180,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/9c2fbbe2a8e8bed7e264f4f06c6c3072d3a9c61c"
+  },
+  {
+   "path": "docs/n16.html",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "9c2fbbe2a8e8bed7e264f4f06c6c3072d3a9c61c",
+   "size": 13180,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/9c2fbbe2a8e8bed7e264f4f06c6c3072d3a9c61c"
+  },
+  {
+   "path": "docs/n16.zh.html",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "35418a572ffad3a9cece6babf5e1de4e432e6844",
+   "size": 11813,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/35418a572ffad3a9cece6babf5e1de4e432e6844"
+  },
+  {
+   "path": "docs/n17.en.html",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "fd9ce80b0c1a229905dcbe93e12835d317dd0744",
+   "size": 12960,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/fd9ce80b0c1a229905dcbe93e12835d317dd0744"
+  },
+  {
+   "path": "docs/n17.html",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "fd9ce80b0c1a229905dcbe93e12835d317dd0744",
+   "size": 12960,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/fd9ce80b0c1a229905dcbe93e12835d317dd0744"
+  },
+  {
+   "path": "docs/n17.zh.html",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "1e0923914dc644ba54e0d2d75d3299373d666a02",
+   "size": 11552,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/1e0923914dc644ba54e0d2d75d3299373d666a02"
+  },
+  {
+   "path": "docs/n18.en.html",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "2b1a1c678a6c8b5f92bc454a97c6e34c8e09d4c6",
+   "size": 12960,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/2b1a1c678a6c8b5f92bc454a97c6e34c8e09d4c6"
+  },
+  {
+   "path": "docs/n18.html",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "2b1a1c678a6c8b5f92bc454a97c6e34c8e09d4c6",
+   "size": 12960,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/2b1a1c678a6c8b5f92bc454a97c6e34c8e09d4c6"
+  },
+  {
+   "path": "docs/n18.zh.html",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "ebf88991640f14755ea8fbe49c3b6808ff75b8c1",
+   "size": 11552,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/ebf88991640f14755ea8fbe49c3b6808ff75b8c1"
+  },
+  {
+   "path": "docs/n19.en.html",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "f2a02d87734ede2e76ade77c7bc960bcb1d45ee9",
+   "size": 13181,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/f2a02d87734ede2e76ade77c7bc960bcb1d45ee9"
+  },
+  {
+   "path": "docs/n19.html",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "f2a02d87734ede2e76ade77c7bc960bcb1d45ee9",
+   "size": 13181,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/f2a02d87734ede2e76ade77c7bc960bcb1d45ee9"
+  },
+  {
+   "path": "docs/n19.zh.html",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "590055f0066494cd7753ac5ee7f52a76fda5806e",
+   "size": 11814,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/590055f0066494cd7753ac5ee7f52a76fda5806e"
+  },
+  {
+   "path": "docs/n20.en.html",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "32cd84213f141327a00fb960cb8c420a74420a05",
+   "size": 12960,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/32cd84213f141327a00fb960cb8c420a74420a05"
+  },
+  {
+   "path": "docs/n20.html",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "32cd84213f141327a00fb960cb8c420a74420a05",
+   "size": 12960,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/32cd84213f141327a00fb960cb8c420a74420a05"
+  },
+  {
+   "path": "docs/n20.zh.html",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "c9075f7d437781ca37fb7b51c80bb27419b1bfd1",
+   "size": 11552,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/c9075f7d437781ca37fb7b51c80bb27419b1bfd1"
+  },
+  {
+   "path": "docs/n21.en.html",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "e5e3b8e18878c6e7d5085e748dfb191f766dfc89",
+   "size": 12960,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/e5e3b8e18878c6e7d5085e748dfb191f766dfc89"
+  },
+  {
+   "path": "docs/n21.html",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "e5e3b8e18878c6e7d5085e748dfb191f766dfc89",
+   "size": 12960,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/e5e3b8e18878c6e7d5085e748dfb191f766dfc89"
+  },
+  {
+   "path": "docs/n21.zh.html",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "09c194857384f9c4f4cf44a3a605cadd2644506c",
+   "size": 11552,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/09c194857384f9c4f4cf44a3a605cadd2644506c"
+  },
+  {
+   "path": "docs/n22.en.html",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "beccd429913ac6e1da3784d5a671597e03ae52bb",
+   "size": 13181,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/beccd429913ac6e1da3784d5a671597e03ae52bb"
+  },
+  {
+   "path": "docs/n22.html",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "beccd429913ac6e1da3784d5a671597e03ae52bb",
+   "size": 13181,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/beccd429913ac6e1da3784d5a671597e03ae52bb"
+  },
+  {
+   "path": "docs/n22.zh.html",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "7a66a8e73e3763d6fea81107c69ccae38fc831f4",
+   "size": 11814,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/7a66a8e73e3763d6fea81107c69ccae38fc831f4"
+  },
+  {
+   "path": "docs/n23.en.html",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "5266708e62d7344795d93d8eeacec5f9376f973c",
+   "size": 13140,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/5266708e62d7344795d93d8eeacec5f9376f973c"
+  },
+  {
+   "path": "docs/n23.html",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "5266708e62d7344795d93d8eeacec5f9376f973c",
+   "size": 13140,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/5266708e62d7344795d93d8eeacec5f9376f973c"
+  },
+  {
+   "path": "docs/n23.zh.html",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "a4f66f99d3c03edd458c5c6abfe8782081b3c03c",
+   "size": 11674,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/a4f66f99d3c03edd458c5c6abfe8782081b3c03c"
+  },
+  {
+   "path": "docs/n24.en.html",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "234cb05198f529a44576352de53e08d03512c78b",
+   "size": 12967,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/234cb05198f529a44576352de53e08d03512c78b"
+  },
+  {
+   "path": "docs/n24.html",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "234cb05198f529a44576352de53e08d03512c78b",
+   "size": 12967,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/234cb05198f529a44576352de53e08d03512c78b"
+  },
+  {
+   "path": "docs/n24.zh.html",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "b143e4561021e2cc7a2cdbbf587082b0406a03be",
+   "size": 11559,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/b143e4561021e2cc7a2cdbbf587082b0406a03be"
+  },
+  {
+   "path": "docs/n25-history.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "6bcdc7b927eea8c3bfd469b792d589c250e9a562",
+   "size": 16960,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/6bcdc7b927eea8c3bfd469b792d589c250e9a562"
+  },
+  {
+   "path": "docs/n25.en.html",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "0be837abe0880af70cfa500583bf9c047fb18d05",
+   "size": 13836,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/0be837abe0880af70cfa500583bf9c047fb18d05"
+  },
+  {
+   "path": "docs/n25.html",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "0be837abe0880af70cfa500583bf9c047fb18d05",
+   "size": 13836,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/0be837abe0880af70cfa500583bf9c047fb18d05"
+  },
+  {
+   "path": "docs/n25.zh.html",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "92371b0c013651c80564c536f031b3c8d50c8cb1",
+   "size": 12424,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/92371b0c013651c80564c536f031b3c8d50c8cb1"
+  },
+  {
+   "path": "docs/n26.en.html",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "2b755902369a1e52b1930524a22a9959d4754a9c",
+   "size": 13636,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/2b755902369a1e52b1930524a22a9959d4754a9c"
+  },
+  {
+   "path": "docs/n26.html",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "2b755902369a1e52b1930524a22a9959d4754a9c",
+   "size": 13636,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/2b755902369a1e52b1930524a22a9959d4754a9c"
+  },
+  {
+   "path": "docs/n26.zh.html",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "93d06ffc0acb58263f28ba1c3449907b78c21f73",
+   "size": 12167,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/93d06ffc0acb58263f28ba1c3449907b78c21f73"
+  },
+  {
+   "path": "docs/n27-history.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "47152dc284d02ec64ac0f98b981660c2e07010b8",
+   "size": 963,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/47152dc284d02ec64ac0f98b981660c2e07010b8"
+  },
+  {
+   "path": "docs/n27.en.html",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "fb88c21803544204700cbaa2e1682e79b20ad42e",
+   "size": 13401,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/fb88c21803544204700cbaa2e1682e79b20ad42e"
+  },
+  {
+   "path": "docs/n27.html",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "fb88c21803544204700cbaa2e1682e79b20ad42e",
+   "size": 13401,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/fb88c21803544204700cbaa2e1682e79b20ad42e"
+  },
+  {
+   "path": "docs/n27.zh.html",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "2967dcaf8d5c4589fa822ae8fd47c371943755cd",
+   "size": 11979,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/2967dcaf8d5c4589fa822ae8fd47c371943755cd"
+  },
+  {
+   "path": "docs/n28.en.html",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "4b32e7ec4e2b10903b33b593c549c6be2d1ab92b",
+   "size": 12967,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/4b32e7ec4e2b10903b33b593c549c6be2d1ab92b"
+  },
+  {
+   "path": "docs/n28.html",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "4b32e7ec4e2b10903b33b593c549c6be2d1ab92b",
+   "size": 12967,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/4b32e7ec4e2b10903b33b593c549c6be2d1ab92b"
+  },
+  {
+   "path": "docs/n28.zh.html",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "0d4f39101205b6fb79e49ff76808efd1ab2922ab",
+   "size": 11559,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/0d4f39101205b6fb79e49ff76808efd1ab2922ab"
+  },
+  {
+   "path": "docs/n29.en.html",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "3ed92b016ec5d4b085dca19853c356251a32aa93",
+   "size": 12967,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/3ed92b016ec5d4b085dca19853c356251a32aa93"
+  },
+  {
+   "path": "docs/n29.html",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "3ed92b016ec5d4b085dca19853c356251a32aa93",
+   "size": 12967,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/3ed92b016ec5d4b085dca19853c356251a32aa93"
+  },
+  {
+   "path": "docs/n29.zh.html",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "08e4af6d60d2efce141f21fba0f98959239f1068",
+   "size": 11559,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/08e4af6d60d2efce141f21fba0f98959239f1068"
+  },
+  {
+   "path": "docs/n30.en.html",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "33cbc356397fc8a6f2befda5f2d2d572edebfab4",
+   "size": 13096,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/33cbc356397fc8a6f2befda5f2d2d572edebfab4"
+  },
+  {
+   "path": "docs/n30.html",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "33cbc356397fc8a6f2befda5f2d2d572edebfab4",
+   "size": 13096,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/33cbc356397fc8a6f2befda5f2d2d572edebfab4"
+  },
+  {
+   "path": "docs/n30.zh.html",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "6841a2677263d3cae27f209b07a1cd62a91e56b1",
+   "size": 11652,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/6841a2677263d3cae27f209b07a1cd62a91e56b1"
+  },
+  {
+   "path": "docs/navigation.js",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "a97b147372c2bc3de03f9160d7b18d85cd67bffc",
+   "size": 1279,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/a97b147372c2bc3de03f9160d7b18d85cd67bffc"
+  },
+  {
+   "path": "docs/problems",
+   "mode": "040000",
+   "type": "tree",
+   "sha": "f4000237598f1224e0955bac6846c79d9bd5c56c",
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/trees/f4000237598f1224e0955bac6846c79d9bd5c56c"
+  },
+  {
+   "path": "docs/problems/n11.en.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "a01a58607442a68646507e276995d321124fb478",
+   "size": 4860,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/a01a58607442a68646507e276995d321124fb478"
+  },
+  {
+   "path": "docs/problems/n11.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "a01a58607442a68646507e276995d321124fb478",
+   "size": 4860,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/a01a58607442a68646507e276995d321124fb478"
+  },
+  {
+   "path": "docs/problems/n11.zh.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "feba468625eb766fbdb0ebf5af4778cd3592262a",
+   "size": 4753,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/feba468625eb766fbdb0ebf5af4778cd3592262a"
+  },
+  {
+   "path": "docs/problems/n12.en.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "814e806ca09111e92498a21b770e1e9d8fe992c2",
+   "size": 5617,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/814e806ca09111e92498a21b770e1e9d8fe992c2"
+  },
+  {
+   "path": "docs/problems/n12.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "814e806ca09111e92498a21b770e1e9d8fe992c2",
+   "size": 5617,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/814e806ca09111e92498a21b770e1e9d8fe992c2"
+  },
+  {
+   "path": "docs/problems/n12.zh.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "8b2fa4d31d3402a136946bb6d6633624cc0df62e",
+   "size": 5447,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/8b2fa4d31d3402a136946bb6d6633624cc0df62e"
+  },
+  {
+   "path": "docs/problems/n13.en.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "926af7e1c0def0f3ce59f48a85c36463d60fc005",
+   "size": 3834,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/926af7e1c0def0f3ce59f48a85c36463d60fc005"
+  },
+  {
+   "path": "docs/problems/n13.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "926af7e1c0def0f3ce59f48a85c36463d60fc005",
+   "size": 3834,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/926af7e1c0def0f3ce59f48a85c36463d60fc005"
+  },
+  {
+   "path": "docs/problems/n13.zh.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "38d46c904564448105e22d6ddf33fc97507b8303",
+   "size": 3709,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/38d46c904564448105e22d6ddf33fc97507b8303"
+  },
+  {
+   "path": "docs/problems/n14.en.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "a04874d083bd57d7570502b69871c334c29a0fcb",
+   "size": 2460,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/a04874d083bd57d7570502b69871c334c29a0fcb"
+  },
+  {
+   "path": "docs/problems/n14.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "a04874d083bd57d7570502b69871c334c29a0fcb",
+   "size": 2460,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/a04874d083bd57d7570502b69871c334c29a0fcb"
+  },
+  {
+   "path": "docs/problems/n14.zh.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "3e02527ea36b08bb60ba38624ede8740df1670d5",
+   "size": 2362,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/3e02527ea36b08bb60ba38624ede8740df1670d5"
+  },
+  {
+   "path": "docs/problems/n15.en.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "17b5e6c4fe75b200a1896b5016c5b3250163be52",
+   "size": 1811,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/17b5e6c4fe75b200a1896b5016c5b3250163be52"
+  },
+  {
+   "path": "docs/problems/n15.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "17b5e6c4fe75b200a1896b5016c5b3250163be52",
+   "size": 1811,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/17b5e6c4fe75b200a1896b5016c5b3250163be52"
+  },
+  {
+   "path": "docs/problems/n15.zh.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "104cc705ce9fa360878a0f595f5deb106125955f",
+   "size": 1693,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/104cc705ce9fa360878a0f595f5deb106125955f"
+  },
+  {
+   "path": "docs/problems/n16.en.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "315be0b7bc4e386157f8f87b025566e6d04de592",
+   "size": 2457,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/315be0b7bc4e386157f8f87b025566e6d04de592"
+  },
+  {
+   "path": "docs/problems/n16.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "315be0b7bc4e386157f8f87b025566e6d04de592",
+   "size": 2457,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/315be0b7bc4e386157f8f87b025566e6d04de592"
+  },
+  {
+   "path": "docs/problems/n16.zh.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "d1d521008e5686821154ccf5caf43d80d6a4a721",
+   "size": 2359,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/d1d521008e5686821154ccf5caf43d80d6a4a721"
+  },
+  {
+   "path": "docs/problems/n17.en.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "f6c94fb1e52f0a4ed5fb5a4538c8f81b6c843ded",
+   "size": 1811,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/f6c94fb1e52f0a4ed5fb5a4538c8f81b6c843ded"
+  },
+  {
+   "path": "docs/problems/n17.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "f6c94fb1e52f0a4ed5fb5a4538c8f81b6c843ded",
+   "size": 1811,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/f6c94fb1e52f0a4ed5fb5a4538c8f81b6c843ded"
+  },
+  {
+   "path": "docs/problems/n17.zh.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "6c0cb04f44afe747fcf1076d4064a8edbd7748c9",
+   "size": 1693,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/6c0cb04f44afe747fcf1076d4064a8edbd7748c9"
+  },
+  {
+   "path": "docs/problems/n18.en.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "dcf8badd8f00931304da6409cb043da33a362e65",
+   "size": 1811,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/dcf8badd8f00931304da6409cb043da33a362e65"
+  },
+  {
+   "path": "docs/problems/n18.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "dcf8badd8f00931304da6409cb043da33a362e65",
+   "size": 1811,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/dcf8badd8f00931304da6409cb043da33a362e65"
+  },
+  {
+   "path": "docs/problems/n18.zh.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "af228a7d0dcfebbc622922f47acd4791255ddfed",
+   "size": 1693,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/af228a7d0dcfebbc622922f47acd4791255ddfed"
+  },
+  {
+   "path": "docs/problems/n19.en.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "7835f56dda66009bfb025680ad10ce2b67e3075d",
+   "size": 2453,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/7835f56dda66009bfb025680ad10ce2b67e3075d"
+  },
+  {
+   "path": "docs/problems/n19.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "7835f56dda66009bfb025680ad10ce2b67e3075d",
+   "size": 2453,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/7835f56dda66009bfb025680ad10ce2b67e3075d"
+  },
+  {
+   "path": "docs/problems/n19.zh.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "97c72e8bf2867b0414cd66bb4242bd62daf66973",
+   "size": 2355,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/97c72e8bf2867b0414cd66bb4242bd62daf66973"
+  },
+  {
+   "path": "docs/problems/n20.en.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "6b43997daad0267285b461a4c8421a2f76a3f9c2",
+   "size": 1811,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/6b43997daad0267285b461a4c8421a2f76a3f9c2"
+  },
+  {
+   "path": "docs/problems/n20.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "6b43997daad0267285b461a4c8421a2f76a3f9c2",
+   "size": 1811,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/6b43997daad0267285b461a4c8421a2f76a3f9c2"
+  },
+  {
+   "path": "docs/problems/n20.zh.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "4d50ea46c90ba3e1e44fd68c90c411ed84576fc8",
+   "size": 1693,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/4d50ea46c90ba3e1e44fd68c90c411ed84576fc8"
+  },
+  {
+   "path": "docs/problems/n21.en.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "69935fe3b195400fa0476ba91a7574a951911025",
+   "size": 1811,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/69935fe3b195400fa0476ba91a7574a951911025"
+  },
+  {
+   "path": "docs/problems/n21.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "69935fe3b195400fa0476ba91a7574a951911025",
+   "size": 1811,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/69935fe3b195400fa0476ba91a7574a951911025"
+  },
+  {
+   "path": "docs/problems/n21.zh.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "65a973db090b35cc7601e32ee31f9cf6998e37da",
+   "size": 1693,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/65a973db090b35cc7601e32ee31f9cf6998e37da"
+  },
+  {
+   "path": "docs/problems/n22.en.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "af5426c94cfdfad1be10cc8b201cf7c9cb346ab9",
+   "size": 2460,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/af5426c94cfdfad1be10cc8b201cf7c9cb346ab9"
+  },
+  {
+   "path": "docs/problems/n22.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "af5426c94cfdfad1be10cc8b201cf7c9cb346ab9",
+   "size": 2460,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/af5426c94cfdfad1be10cc8b201cf7c9cb346ab9"
+  },
+  {
+   "path": "docs/problems/n22.zh.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "70891834d6456ad73febe1f0962187b1d976f42f",
+   "size": 2362,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/70891834d6456ad73febe1f0962187b1d976f42f"
+  },
+  {
+   "path": "docs/problems/n23.en.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "f98b95ed7a302b48ff5d97fee0e133c677cde5fe",
+   "size": 2178,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/f98b95ed7a302b48ff5d97fee0e133c677cde5fe"
+  },
+  {
+   "path": "docs/problems/n23.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "f98b95ed7a302b48ff5d97fee0e133c677cde5fe",
+   "size": 2178,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/f98b95ed7a302b48ff5d97fee0e133c677cde5fe"
+  },
+  {
+   "path": "docs/problems/n23.zh.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "e8bed0722c9e4766bb2ba4cdd4133ca015afa719",
+   "size": 1951,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/e8bed0722c9e4766bb2ba4cdd4133ca015afa719"
+  },
+  {
+   "path": "docs/problems/n24.en.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "366326fd44ed85d5c90d71bea18c8d27c38296c5",
+   "size": 1811,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/366326fd44ed85d5c90d71bea18c8d27c38296c5"
+  },
+  {
+   "path": "docs/problems/n24.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "366326fd44ed85d5c90d71bea18c8d27c38296c5",
+   "size": 1811,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/366326fd44ed85d5c90d71bea18c8d27c38296c5"
+  },
+  {
+   "path": "docs/problems/n24.zh.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "d7c5df9e09c402526cf2c8d661ea7f2224df08a8",
+   "size": 1693,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/d7c5df9e09c402526cf2c8d661ea7f2224df08a8"
+  },
+  {
+   "path": "docs/problems/n25.en.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "7b499d46eaae844af59568f9e067e130ba60f1fb",
+   "size": 4628,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/7b499d46eaae844af59568f9e067e130ba60f1fb"
+  },
+  {
+   "path": "docs/problems/n25.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "7b499d46eaae844af59568f9e067e130ba60f1fb",
+   "size": 4628,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/7b499d46eaae844af59568f9e067e130ba60f1fb"
+  },
+  {
+   "path": "docs/problems/n25.zh.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "1e5c4b9c7c4ded00b730fac5094139afbe6286be",
+   "size": 4467,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/1e5c4b9c7c4ded00b730fac5094139afbe6286be"
+  },
+  {
+   "path": "docs/problems/n26.en.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "a33cdad8d1f67cc792d3aaad213c821b0d83854d",
+   "size": 3063,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/a33cdad8d1f67cc792d3aaad213c821b0d83854d"
+  },
+  {
+   "path": "docs/problems/n26.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "a33cdad8d1f67cc792d3aaad213c821b0d83854d",
+   "size": 3063,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/a33cdad8d1f67cc792d3aaad213c821b0d83854d"
+  },
+  {
+   "path": "docs/problems/n26.zh.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "05818b8fa4ffe9d0f98dbea46815f9c02bab469a",
+   "size": 2863,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/05818b8fa4ffe9d0f98dbea46815f9c02bab469a"
+  },
+  {
+   "path": "docs/problems/n27.en.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "611f3847cdb0db07e6e4f84517417020c1779b53",
+   "size": 2835,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/611f3847cdb0db07e6e4f84517417020c1779b53"
+  },
+  {
+   "path": "docs/problems/n27.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "611f3847cdb0db07e6e4f84517417020c1779b53",
+   "size": 2835,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/611f3847cdb0db07e6e4f84517417020c1779b53"
+  },
+  {
+   "path": "docs/problems/n27.zh.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "3824a600e06e847ef04f59029400a8cb6cd31390",
+   "size": 2682,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/3824a600e06e847ef04f59029400a8cb6cd31390"
+  },
+  {
+   "path": "docs/problems/n28.en.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "ee79ada48e88ec54b60ffebbaf5fc2c4740ad23a",
+   "size": 1811,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/ee79ada48e88ec54b60ffebbaf5fc2c4740ad23a"
+  },
+  {
+   "path": "docs/problems/n28.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "ee79ada48e88ec54b60ffebbaf5fc2c4740ad23a",
+   "size": 1811,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/ee79ada48e88ec54b60ffebbaf5fc2c4740ad23a"
+  },
+  {
+   "path": "docs/problems/n28.zh.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "87cf1b9170ec2c286b742685330c6f08ca9d3aa6",
+   "size": 1693,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/87cf1b9170ec2c286b742685330c6f08ca9d3aa6"
+  },
+  {
+   "path": "docs/problems/n29.en.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "185273866a771f437e0ece625f8bb175682efdb2",
+   "size": 1811,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/185273866a771f437e0ece625f8bb175682efdb2"
+  },
+  {
+   "path": "docs/problems/n29.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "185273866a771f437e0ece625f8bb175682efdb2",
+   "size": 1811,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/185273866a771f437e0ece625f8bb175682efdb2"
+  },
+  {
+   "path": "docs/problems/n29.zh.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "118b94cd9fdeaf59c288432bf65c2d894ed97022",
+   "size": 1693,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/118b94cd9fdeaf59c288432bf65c2d894ed97022"
+  },
+  {
+   "path": "docs/problems/n30.en.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "eed724f026d050e31d3de9005e6a77a94752f415",
+   "size": 1940,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/eed724f026d050e31d3de9005e6a77a94752f415"
+  },
+  {
+   "path": "docs/problems/n30.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "eed724f026d050e31d3de9005e6a77a94752f415",
+   "size": 1940,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/eed724f026d050e31d3de9005e6a77a94752f415"
+  },
+  {
+   "path": "docs/problems/n30.zh.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "7d23659730afa8ad2da2edd96f3a2c280d76fcd3",
+   "size": 1786,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/7d23659730afa8ad2da2edd96f3a2c280d76fcd3"
+  },
+  {
+   "path": "docs/prompt-render.js",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "836df1ab59816381488e416ee22340de6fe2c09e",
+   "size": 2179,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/836df1ab59816381488e416ee22340de6fe2c09e"
+  },
+  {
+   "path": "docs/prompts",
+   "mode": "040000",
+   "type": "tree",
+   "sha": "cd5d462966e55dece2f64fa40307abb1b97aabf3",
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/trees/cd5d462966e55dece2f64fa40307abb1b97aabf3"
+  },
+  {
+   "path": "docs/prompts/n11.en.md",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "1030383f577a3fe084987b2455ffaa37ea7d0549",
+   "size": 3356,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/1030383f577a3fe084987b2455ffaa37ea7d0549"
+  },
+  {
+   "path": "docs/prompts/n11.md",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "9b7fd6ff1c02c8b1e21e94b0f65bbfbb29a6e451",
+   "size": 2719,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/9b7fd6ff1c02c8b1e21e94b0f65bbfbb29a6e451"
+  },
+  {
+   "path": "docs/prompts/n12.en.md",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "e63a42770f6dbbc2ed9c165c520ba1658eddf4a6",
+   "size": 3356,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/e63a42770f6dbbc2ed9c165c520ba1658eddf4a6"
+  },
+  {
+   "path": "docs/prompts/n12.md",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "31cf3979842ba99d8a5914543d6554958da5af34",
+   "size": 2719,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/31cf3979842ba99d8a5914543d6554958da5af34"
+  },
+  {
+   "path": "docs/prompts/n13.en.md",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "ab86e0d687a4147c71ce75ed26177c8bc8af8101",
+   "size": 3356,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/ab86e0d687a4147c71ce75ed26177c8bc8af8101"
+  },
+  {
+   "path": "docs/prompts/n13.md",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "0018a686bfa214e76a296ef2216c993a4f1f8e62",
+   "size": 2719,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/0018a686bfa214e76a296ef2216c993a4f1f8e62"
+  },
+  {
+   "path": "docs/prompts/n14.en.md",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "102b944260de80a23b272f4bc48317c33fd5b979",
+   "size": 3356,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/102b944260de80a23b272f4bc48317c33fd5b979"
+  },
+  {
+   "path": "docs/prompts/n14.md",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "7678d10f8acaead7c4ba1d0cdaca3868a7195f70",
+   "size": 2719,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/7678d10f8acaead7c4ba1d0cdaca3868a7195f70"
+  },
+  {
+   "path": "docs/prompts/n15.en.md",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "1f4169418504f4de47b4e77f05a673a657656a9e",
+   "size": 3356,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/1f4169418504f4de47b4e77f05a673a657656a9e"
+  },
+  {
+   "path": "docs/prompts/n15.md",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "429195019abcd34c6a3ff27b5f98dc301945ea57",
+   "size": 2719,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/429195019abcd34c6a3ff27b5f98dc301945ea57"
+  },
+  {
+   "path": "docs/prompts/n16.en.md",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "39c37fc53b6aeabf8158b835423a2e647f15d10e",
+   "size": 3356,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/39c37fc53b6aeabf8158b835423a2e647f15d10e"
+  },
+  {
+   "path": "docs/prompts/n16.md",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "e0f7594f70429c74bcb87a6dad6575a16f1bc003",
+   "size": 2719,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/e0f7594f70429c74bcb87a6dad6575a16f1bc003"
+  },
+  {
+   "path": "docs/prompts/n17.en.md",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "d810772301dc88660a68d3bfd0fbf6611108420a",
+   "size": 3356,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/d810772301dc88660a68d3bfd0fbf6611108420a"
+  },
+  {
+   "path": "docs/prompts/n17.md",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "b622ea43811a98f2b8f1f1c2f8c7bf0f65e6b442",
+   "size": 2719,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/b622ea43811a98f2b8f1f1c2f8c7bf0f65e6b442"
+  },
+  {
+   "path": "docs/prompts/n18.en.md",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "54f4820d23c40d6e475dcec00f15cbd6bcc00d34",
+   "size": 3356,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/54f4820d23c40d6e475dcec00f15cbd6bcc00d34"
+  },
+  {
+   "path": "docs/prompts/n18.md",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "75e9a951eca3dee3a925b4a73fd03253b0ffb650",
+   "size": 2719,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/75e9a951eca3dee3a925b4a73fd03253b0ffb650"
+  },
+  {
+   "path": "docs/prompts/n19.en.md",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "88c3763912388443058d0c8f43cb78ae52e224ca",
+   "size": 3356,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/88c3763912388443058d0c8f43cb78ae52e224ca"
+  },
+  {
+   "path": "docs/prompts/n19.md",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "9b7c9efa9dda6666f07f99d307c6fad6778ad933",
+   "size": 2719,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/9b7c9efa9dda6666f07f99d307c6fad6778ad933"
+  },
+  {
+   "path": "docs/prompts/n20.en.md",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "a1c4a46b301ceca4731b4a41f50690515c7c2d03",
+   "size": 3356,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/a1c4a46b301ceca4731b4a41f50690515c7c2d03"
+  },
+  {
+   "path": "docs/prompts/n20.md",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "8f651dca94a0c3e95e89ede810d7c62d6bda0f2d",
+   "size": 2719,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/8f651dca94a0c3e95e89ede810d7c62d6bda0f2d"
+  },
+  {
+   "path": "docs/prompts/n21.en.md",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "58b05d4bda7ac19db1f7b2c1b9371cacb84c874b",
+   "size": 3356,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/58b05d4bda7ac19db1f7b2c1b9371cacb84c874b"
+  },
+  {
+   "path": "docs/prompts/n21.md",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "91c0d521a3772e7e79c91981168445aab2552b34",
+   "size": 2719,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/91c0d521a3772e7e79c91981168445aab2552b34"
+  },
+  {
+   "path": "docs/prompts/n22.en.md",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "ebb231773bd64dfd61b79950e30af3f8bf3c2d2a",
+   "size": 3356,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/ebb231773bd64dfd61b79950e30af3f8bf3c2d2a"
+  },
+  {
+   "path": "docs/prompts/n22.md",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "6507ca87c5defb1dd8ec13455b9643289ef065af",
+   "size": 2719,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/6507ca87c5defb1dd8ec13455b9643289ef065af"
+  },
+  {
+   "path": "docs/prompts/n23.en.md",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "14ce32112e02fce5031386eb150207ea628d3b24",
+   "size": 3356,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/14ce32112e02fce5031386eb150207ea628d3b24"
+  },
+  {
+   "path": "docs/prompts/n23.md",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "2e4a6d1f070720e9c0687763ac1830eae09ac6d8",
+   "size": 2719,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/2e4a6d1f070720e9c0687763ac1830eae09ac6d8"
+  },
+  {
+   "path": "docs/prompts/n24.en.md",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "7fe4fdd11f6482e5d47303f91b40b9f30fde927c",
+   "size": 3356,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/7fe4fdd11f6482e5d47303f91b40b9f30fde927c"
+  },
+  {
+   "path": "docs/prompts/n24.md",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "cd59ac0923f21ee86147f8903e5368f2d90ba893",
+   "size": 2719,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/cd59ac0923f21ee86147f8903e5368f2d90ba893"
+  },
+  {
+   "path": "docs/prompts/n25.en.md",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "1df06a71c42c1773c356deddb19d5ae4b425d942",
+   "size": 3356,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/1df06a71c42c1773c356deddb19d5ae4b425d942"
+  },
+  {
+   "path": "docs/prompts/n25.md",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "5f6b9351831454816dc5839e78ef2a5a2f23e8a2",
+   "size": 2719,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/5f6b9351831454816dc5839e78ef2a5a2f23e8a2"
+  },
+  {
+   "path": "docs/prompts/n26.en.md",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "3dcbaf8374938363d68fedf7bfec9408b5f592f1",
+   "size": 3356,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/3dcbaf8374938363d68fedf7bfec9408b5f592f1"
+  },
+  {
+   "path": "docs/prompts/n26.md",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "d8ee57d0984ab11322430ba5592fc6044c495bce",
+   "size": 2719,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/d8ee57d0984ab11322430ba5592fc6044c495bce"
+  },
+  {
+   "path": "docs/prompts/n27.en.md",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "d01fd08b421a3cd56f043495ca84d27de29ccbf5",
+   "size": 3356,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/d01fd08b421a3cd56f043495ca84d27de29ccbf5"
+  },
+  {
+   "path": "docs/prompts/n27.md",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "c3600000a33f51e49c3766a49582e38da68edd47",
+   "size": 2719,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/c3600000a33f51e49c3766a49582e38da68edd47"
+  },
+  {
+   "path": "docs/prompts/n28.en.md",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "4339f6886d6f10f2083a2494be880d80959b150c",
+   "size": 3356,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/4339f6886d6f10f2083a2494be880d80959b150c"
+  },
+  {
+   "path": "docs/prompts/n28.md",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "4662997bf71b54cf70551c092ce5e8017d3eaf4b",
+   "size": 2719,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/4662997bf71b54cf70551c092ce5e8017d3eaf4b"
+  },
+  {
+   "path": "docs/prompts/n29.en.md",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "857dc97685944707413f6868b748818ad42d6151",
+   "size": 3356,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/857dc97685944707413f6868b748818ad42d6151"
+  },
+  {
+   "path": "docs/prompts/n29.md",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "cd16669960d5f2e2a0c224dffd17e5d16198e194",
+   "size": 2719,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/cd16669960d5f2e2a0c224dffd17e5d16198e194"
+  },
+  {
+   "path": "docs/prompts/n30.en.md",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "78e3f818d58f97579607b11d3898cdff5c5a997b",
+   "size": 3356,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/78e3f818d58f97579607b11d3898cdff5c5a997b"
+  },
+  {
+   "path": "docs/prompts/n30.md",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "489b87689e66fcc6614e2378fd8faa94b72f9125",
+   "size": 2719,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/489b87689e66fcc6614e2378fd8faa94b72f9125"
+  },
+  {
+   "path": "docs/protocol.en.html",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "a390a68f9cc37dd241acac2cd4bbabbe5b4481d1",
+   "size": 14018,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/a390a68f9cc37dd241acac2cd4bbabbe5b4481d1"
+  },
+  {
+   "path": "docs/protocol.en.txt",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "8d6d2de0bdc89ec537296348a77cca7bb23a8ae2",
+   "size": 4951,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/8d6d2de0bdc89ec537296348a77cca7bb23a8ae2"
+  },
+  {
+   "path": "docs/protocol.html",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "a390a68f9cc37dd241acac2cd4bbabbe5b4481d1",
+   "size": 14018,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/a390a68f9cc37dd241acac2cd4bbabbe5b4481d1"
+  },
+  {
+   "path": "docs/protocol.txt",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "00440accb4fe071ce165754ea15423dcd6bd8394",
+   "size": 4077,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/00440accb4fe071ce165754ea15423dcd6bd8394"
+  },
+  {
+   "path": "docs/protocol.zh.html",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "00d82fb89bae1f1e7dd49f064fd3bfcfe88793c5",
+   "size": 12256,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/00d82fb89bae1f1e7dd49f064fd3bfcfe88793c5"
+  },
+  {
+   "path": "docs/record-n11-algorithm-run-20261001.en.html",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "e287a1c2620a9abdd0495a389898e8769e0a7eaa",
+   "size": 14970,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/e287a1c2620a9abdd0495a389898e8769e0a7eaa"
+  },
+  {
+   "path": "docs/record-n11-algorithm-run-20261001.en.md",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "140ca14f944a90b1a2ec6757399b805d78638b05",
+   "size": 5349,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/140ca14f944a90b1a2ec6757399b805d78638b05"
+  },
+  {
+   "path": "docs/record-n11-algorithm-run-20261001.html",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "e287a1c2620a9abdd0495a389898e8769e0a7eaa",
+   "size": 14970,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/e287a1c2620a9abdd0495a389898e8769e0a7eaa"
+  },
+  {
+   "path": "docs/record-n11-algorithm-run-20261001.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "5df2f46503027c787ec00a692d875e3b78fcf72d",
+   "size": 5515,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/5df2f46503027c787ec00a692d875e3b78fcf72d"
+  },
+  {
+   "path": "docs/record-n11-algorithm-run-20261001.zh.html",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "f66555a888491122da806f8b39fb2a6c65b20f6f",
+   "size": 13072,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/f66555a888491122da806f8b39fb2a6c65b20f6f"
+  },
+  {
+   "path": "docs/record-n11-algorithm-run-20261001.zh.md",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "85bf7d3d0eb0c2249b42c4b56e43708cc96faf0c",
+   "size": 4399,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/85bf7d3d0eb0c2249b42c4b56e43708cc96faf0c"
+  },
+  {
+   "path": "docs/record-n11-astra-20260930.en.html",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "20878e3d2a9f2da986d2ff14929c9251a7010a4c",
+   "size": 25365,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/20878e3d2a9f2da986d2ff14929c9251a7010a4c"
+  },
+  {
+   "path": "docs/record-n11-astra-20260930.en.md",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "1b45acff7c15ec84b9482d96ec8747589e0fa7cc",
+   "size": 10524,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/1b45acff7c15ec84b9482d96ec8747589e0fa7cc"
+  },
+  {
+   "path": "docs/record-n11-astra-20260930.html",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "20878e3d2a9f2da986d2ff14929c9251a7010a4c",
+   "size": 25365,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/20878e3d2a9f2da986d2ff14929c9251a7010a4c"
+  },
+  {
+   "path": "docs/record-n11-astra-20260930.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "cdb5d6b4d9b2d0d360fa716039a295b9c7119c04",
+   "size": 9321,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/cdb5d6b4d9b2d0d360fa716039a295b9c7119c04"
+  },
+  {
+   "path": "docs/record-n11-astra-20260930.md",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "1b45acff7c15ec84b9482d96ec8747589e0fa7cc",
+   "size": 10524,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/1b45acff7c15ec84b9482d96ec8747589e0fa7cc"
+  },
+  {
+   "path": "docs/record-n11-astra-20260930.zh.html",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "988e7f79642142f523dfd7727ba3137c4ff9bc64",
+   "size": 22066,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/988e7f79642142f523dfd7727ba3137c4ff9bc64"
+  },
+  {
+   "path": "docs/record-n11-astra-20260930.zh.md",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "b1a05c0e25795af3944f00cba2d5e5495eed94ff",
+   "size": 8883,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/b1a05c0e25795af3944f00cba2d5e5495eed94ff"
+  },
+  {
+   "path": "docs/record-n11-deepseek-v4-pro-max-20261002.en.html",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "48efde4d42191b284cf30786070a5abaf01942e7",
+   "size": 46907,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/48efde4d42191b284cf30786070a5abaf01942e7"
+  },
+  {
+   "path": "docs/record-n11-deepseek-v4-pro-max-20261002.en.md",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "02c5c0712408ecaa86c57ec67fb265b05d5fd9f0",
+   "size": 21049,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/02c5c0712408ecaa86c57ec67fb265b05d5fd9f0"
+  },
+  {
+   "path": "docs/record-n11-deepseek-v4-pro-max-20261002.html",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "48efde4d42191b284cf30786070a5abaf01942e7",
+   "size": 46907,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/48efde4d42191b284cf30786070a5abaf01942e7"
+  },
+  {
+   "path": "docs/record-n11-deepseek-v4-pro-max-20261002.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "bd89c1ddf88effeaa902915b5a096302ff90947a",
+   "size": 7348,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/bd89c1ddf88effeaa902915b5a096302ff90947a"
+  },
+  {
+   "path": "docs/record-n11-deepseek-v4-pro-max-20261002.md",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "02c5c0712408ecaa86c57ec67fb265b05d5fd9f0",
+   "size": 21049,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/02c5c0712408ecaa86c57ec67fb265b05d5fd9f0"
+  },
+  {
+   "path": "docs/record-n11-deepseek-v4-pro-max-20261002.zh.html",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "3c1d40d144eba316ccb0ad5f9ca60b3ae549ceb3",
+   "size": 42690,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/3c1d40d144eba316ccb0ad5f9ca60b3ae549ceb3"
+  },
+  {
+   "path": "docs/record-n11-deepseek-v4-pro-max-20261002.zh.md",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "1f298533ab62a10d3a9e2c5a9a4e5f5847b684dc",
+   "size": 18929,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/1f298533ab62a10d3a9e2c5a9a4e5f5847b684dc"
+  },
+  {
+   "path": "docs/record-n11-sol-20260930.en.html",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "3157705f62f5fa3d1f78fc04d8829ba1fe9e554a",
+   "size": 24647,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/3157705f62f5fa3d1f78fc04d8829ba1fe9e554a"
+  },
+  {
+   "path": "docs/record-n11-sol-20260930.en.md",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "2adb0e0ca0bfd1c221946e42a43dc8152e23cb1a",
+   "size": 10171,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/2adb0e0ca0bfd1c221946e42a43dc8152e23cb1a"
+  },
+  {
+   "path": "docs/record-n11-sol-20260930.html",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "3157705f62f5fa3d1f78fc04d8829ba1fe9e554a",
+   "size": 24647,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/3157705f62f5fa3d1f78fc04d8829ba1fe9e554a"
+  },
+  {
+   "path": "docs/record-n11-sol-20260930.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "d9f90b7b82d584ed76412ae9aaf31a202effa3c6",
+   "size": 9111,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/d9f90b7b82d584ed76412ae9aaf31a202effa3c6"
+  },
+  {
+   "path": "docs/record-n11-sol-20260930.md",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "2adb0e0ca0bfd1c221946e42a43dc8152e23cb1a",
+   "size": 10171,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/2adb0e0ca0bfd1c221946e42a43dc8152e23cb1a"
+  },
+  {
+   "path": "docs/record-n11-sol-20260930.zh.html",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "849244858b5cda1de025a9cf5ef29549c68f4b11",
+   "size": 21634,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/849244858b5cda1de025a9cf5ef29549c68f4b11"
+  },
+  {
+   "path": "docs/record-n11-sol-20260930.zh.md",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "d431161d11aced92b9434598351a596d3eb19422",
+   "size": 8673,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/d431161d11aced92b9434598351a596d3eb19422"
+  },
+  {
+   "path": "docs/record-n12-algorithm-run-20261001.en.html",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "ab691bee9065f345ded99feb92c061c3c7c0988c",
+   "size": 15000,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/ab691bee9065f345ded99feb92c061c3c7c0988c"
+  },
+  {
+   "path": "docs/record-n12-algorithm-run-20261001.en.md",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "3790b9c8c339898c70cdb452a49aad2a21e6ba26",
+   "size": 5364,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/3790b9c8c339898c70cdb452a49aad2a21e6ba26"
+  },
+  {
+   "path": "docs/record-n12-algorithm-run-20261001.html",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "ab691bee9065f345ded99feb92c061c3c7c0988c",
+   "size": 15000,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/ab691bee9065f345ded99feb92c061c3c7c0988c"
+  },
+  {
+   "path": "docs/record-n12-algorithm-run-20261001.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "cba63454fc776791a6eec06b00fc4676964956b9",
+   "size": 5393,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/cba63454fc776791a6eec06b00fc4676964956b9"
+  },
+  {
+   "path": "docs/record-n12-algorithm-run-20261001.zh.html",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "e4c74cb211b82b9da5f6373d8f465674d92bf4e2",
+   "size": 13102,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/e4c74cb211b82b9da5f6373d8f465674d92bf4e2"
+  },
+  {
+   "path": "docs/record-n12-algorithm-run-20261001.zh.md",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "d58df6ed8259c6e1cfe664d437dc2ed2985f6323",
+   "size": 4414,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/d58df6ed8259c6e1cfe664d437dc2ed2985f6323"
+  },
+  {
+   "path": "docs/record-n12-astra-20261001.en.html",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "1dd7f2e407e354c1460dfb1efab809762dc413a5",
+   "size": 33777,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/1dd7f2e407e354c1460dfb1efab809762dc413a5"
+  },
+  {
+   "path": "docs/record-n12-astra-20261001.en.md",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "56ec94ec47b292d11dab68a40c60631e6a8c5a56",
+   "size": 14705,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/56ec94ec47b292d11dab68a40c60631e6a8c5a56"
+  },
+  {
+   "path": "docs/record-n12-astra-20261001.html",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "1dd7f2e407e354c1460dfb1efab809762dc413a5",
+   "size": 33777,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/1dd7f2e407e354c1460dfb1efab809762dc413a5"
+  },
+  {
+   "path": "docs/record-n12-astra-20261001.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "5230a617f252208aaa02be5df2c3bb536269a7f5",
+   "size": 5261,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/5230a617f252208aaa02be5df2c3bb536269a7f5"
+  },
+  {
+   "path": "docs/record-n12-astra-20261001.md",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "56ec94ec47b292d11dab68a40c60631e6a8c5a56",
+   "size": 14705,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/56ec94ec47b292d11dab68a40c60631e6a8c5a56"
+  },
+  {
+   "path": "docs/record-n12-astra-20261001.zh.html",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "b3570e59990c5104b3dd6cb489a903856d142351",
+   "size": 29294,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/b3570e59990c5104b3dd6cb489a903856d142351"
+  },
+  {
+   "path": "docs/record-n12-astra-20261001.zh.md",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "b696e9b356a76d45f15470420fd1fa49f2bb4ecc",
+   "size": 12461,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/b696e9b356a76d45f15470420fd1fa49f2bb4ecc"
+  },
+  {
+   "path": "docs/record-n12-deepseek-v4-pro-max-20261002.en.html",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "217c517641f7af128b35b07073245ed4579ff838",
+   "size": 34559,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/217c517641f7af128b35b07073245ed4579ff838"
+  },
+  {
+   "path": "docs/record-n12-deepseek-v4-pro-max-20261002.en.md",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "e25221c0b7ee489258fe0c9ad6db701238f47d35",
+   "size": 15029,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/e25221c0b7ee489258fe0c9ad6db701238f47d35"
+  },
+  {
+   "path": "docs/record-n12-deepseek-v4-pro-max-20261002.html",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "217c517641f7af128b35b07073245ed4579ff838",
+   "size": 34559,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/217c517641f7af128b35b07073245ed4579ff838"
+  },
+  {
+   "path": "docs/record-n12-deepseek-v4-pro-max-20261002.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "585154adffb0a238cba31da878c7b0d0f09fb4ea",
+   "size": 4483,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/585154adffb0a238cba31da878c7b0d0f09fb4ea"
+  },
+  {
+   "path": "docs/record-n12-deepseek-v4-pro-max-20261002.md",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "e25221c0b7ee489258fe0c9ad6db701238f47d35",
+   "size": 15029,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/e25221c0b7ee489258fe0c9ad6db701238f47d35"
+  },
+  {
+   "path": "docs/record-n12-deepseek-v4-pro-max-20261002.zh.html",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "216239649f567242c56d9147cbe6d5884ed631e4",
+   "size": 33922,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/216239649f567242c56d9147cbe6d5884ed631e4"
+  },
+  {
+   "path": "docs/record-n12-deepseek-v4-pro-max-20261002.zh.md",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "dd9b7226ac4270232767011a937139515592598b",
+   "size": 14774,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/dd9b7226ac4270232767011a937139515592598b"
+  },
+  {
+   "path": "docs/record-n12-sol-20261001.en.html",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "1a23389eb9d7999f7d4ee4ee687bfca1c9fee8b2",
+   "size": 34733,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/1a23389eb9d7999f7d4ee4ee687bfca1c9fee8b2"
+  },
+  {
+   "path": "docs/record-n12-sol-20261001.en.md",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "c2d58cd987915392155eafe7ad353dccfc8494be",
+   "size": 15219,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/c2d58cd987915392155eafe7ad353dccfc8494be"
+  },
+  {
+   "path": "docs/record-n12-sol-20261001.html",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "1a23389eb9d7999f7d4ee4ee687bfca1c9fee8b2",
+   "size": 34733,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/1a23389eb9d7999f7d4ee4ee687bfca1c9fee8b2"
+  },
+  {
+   "path": "docs/record-n12-sol-20261001.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "e98261ef4eda1e5c6dbb3cb83b53f55ce4ff3369",
+   "size": 6151,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/e98261ef4eda1e5c6dbb3cb83b53f55ce4ff3369"
+  },
+  {
+   "path": "docs/record-n12-sol-20261001.md",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "c2d58cd987915392155eafe7ad353dccfc8494be",
+   "size": 15219,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/c2d58cd987915392155eafe7ad353dccfc8494be"
+  },
+  {
+   "path": "docs/record-n12-sol-20261001.zh.html",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "3ab8d2d2fea3b0b704e8a19cdc75912443db10d8",
+   "size": 30750,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/3ab8d2d2fea3b0b704e8a19cdc75912443db10d8"
+  },
+  {
+   "path": "docs/record-n12-sol-20261001.zh.md",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "db9b9bbf2c4410bfc05f84797ce01ce3fb8f250b",
+   "size": 13231,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/db9b9bbf2c4410bfc05f84797ce01ce3fb8f250b"
+  },
+  {
+   "path": "docs/record-n13-codex-20261001.en.html",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "40561600b6dc10f11db0c9fd761a86ded2255f9c",
+   "size": 46689,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/40561600b6dc10f11db0c9fd761a86ded2255f9c"
+  },
+  {
+   "path": "docs/record-n13-codex-20261001.en.md",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "c454d03f4a7b19e8a2d290a55f22cac5673ff279",
+   "size": 21166,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/c454d03f4a7b19e8a2d290a55f22cac5673ff279"
+  },
+  {
+   "path": "docs/record-n13-codex-20261001.html",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "40561600b6dc10f11db0c9fd761a86ded2255f9c",
+   "size": 46689,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/40561600b6dc10f11db0c9fd761a86ded2255f9c"
+  },
+  {
+   "path": "docs/record-n13-codex-20261001.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "4c0c36679ba31535af762237995a44512ff8fba9",
+   "size": 27960,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/4c0c36679ba31535af762237995a44512ff8fba9"
+  },
+  {
+   "path": "docs/record-n13-codex-20261001.md",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "c454d03f4a7b19e8a2d290a55f22cac5673ff279",
+   "size": 21166,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/c454d03f4a7b19e8a2d290a55f22cac5673ff279"
+  },
+  {
+   "path": "docs/record-n13-codex-20261001.zh.html",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "fc6d5b305434376ad66ab77c57aa4a3047dc2004",
+   "size": 42136,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/fc6d5b305434376ad66ab77c57aa4a3047dc2004"
+  },
+  {
+   "path": "docs/record-n13-codex-20261001.zh.md",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "4ebd8e121862d435323220e9d553dea4e6aa9fa6",
+   "size": 18918,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/4ebd8e121862d435323220e9d553dea4e6aa9fa6"
+  },
+  {
+   "path": "docs/record-n13-sol-20261001.en.html",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "7f4ceb74bdaed17b31efb859a4d402c2d0f8adef",
+   "size": 45089,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/7f4ceb74bdaed17b31efb859a4d402c2d0f8adef"
+  },
+  {
+   "path": "docs/record-n13-sol-20261001.en.md",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "978b73d3258976a8ab21e8abfe0d7b529327df32",
+   "size": 20332,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/978b73d3258976a8ab21e8abfe0d7b529327df32"
+  },
+  {
+   "path": "docs/record-n13-sol-20261001.html",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "7f4ceb74bdaed17b31efb859a4d402c2d0f8adef",
+   "size": 45089,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/7f4ceb74bdaed17b31efb859a4d402c2d0f8adef"
+  },
+  {
+   "path": "docs/record-n13-sol-20261001.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "7d36aa02da33e6b469741b8471970bbbe248e23e",
+   "size": 27723,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/7d36aa02da33e6b469741b8471970bbbe248e23e"
+  },
+  {
+   "path": "docs/record-n13-sol-20261001.md",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "978b73d3258976a8ab21e8abfe0d7b529327df32",
+   "size": 20332,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/978b73d3258976a8ab21e8abfe0d7b529327df32"
+  },
+  {
+   "path": "docs/record-n13-sol-20261001.zh.html",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "985e4ffa07a26ecc9ee945fad3f33e25f5539a37",
+   "size": 38818,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/985e4ffa07a26ecc9ee945fad3f33e25f5539a37"
+  },
+  {
+   "path": "docs/record-n13-sol-20261001.zh.md",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "bf0e677e514da7d9afb74bf7c4f75880d332a8d7",
+   "size": 17265,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/bf0e677e514da7d9afb74bf7c4f75880d332a8d7"
+  },
+  {
+   "path": "docs/record-n14-algorithm-run-20261001.en.html",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "28875173841979d469f47b0ac9caa3135dd8f46a",
+   "size": 15000,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/28875173841979d469f47b0ac9caa3135dd8f46a"
+  },
+  {
+   "path": "docs/record-n14-algorithm-run-20261001.en.md",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "9872815b87010a8a9752f575b2aec35aa2e75ac0",
+   "size": 5364,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/9872815b87010a8a9752f575b2aec35aa2e75ac0"
+  },
+  {
+   "path": "docs/record-n14-algorithm-run-20261001.html",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "28875173841979d469f47b0ac9caa3135dd8f46a",
+   "size": 15000,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/28875173841979d469f47b0ac9caa3135dd8f46a"
+  },
+  {
+   "path": "docs/record-n14-algorithm-run-20261001.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "2071ec708749865c1794a898246410d11be67768",
+   "size": 5406,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/2071ec708749865c1794a898246410d11be67768"
+  },
+  {
+   "path": "docs/record-n14-algorithm-run-20261001.zh.html",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "dda63e1000b8b7b3507b13326aa61a471002a610",
+   "size": 13102,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/dda63e1000b8b7b3507b13326aa61a471002a610"
+  },
+  {
+   "path": "docs/record-n14-algorithm-run-20261001.zh.md",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "7e1e869b1eb25d0b6ba80b98c620c4e06e1d6c7f",
+   "size": 4414,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/7e1e869b1eb25d0b6ba80b98c620c4e06e1d6c7f"
+  },
+  {
+   "path": "docs/record-n16-algorithm-run-20261001.en.html",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "0ae5860b3b389de652675edc455372d0734ecece",
+   "size": 14996,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/0ae5860b3b389de652675edc455372d0734ecece"
+  },
+  {
+   "path": "docs/record-n16-algorithm-run-20261001.en.md",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "613da56baeccc513e2c5353e2eb1620342ebcd1d",
+   "size": 5362,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/613da56baeccc513e2c5353e2eb1620342ebcd1d"
+  },
+  {
+   "path": "docs/record-n16-algorithm-run-20261001.html",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "0ae5860b3b389de652675edc455372d0734ecece",
+   "size": 14996,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/0ae5860b3b389de652675edc455372d0734ecece"
+  },
+  {
+   "path": "docs/record-n16-algorithm-run-20261001.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "b2b184cd92061c6fd098f57e51624e669cc109cf",
+   "size": 5530,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/b2b184cd92061c6fd098f57e51624e669cc109cf"
+  },
+  {
+   "path": "docs/record-n16-algorithm-run-20261001.zh.html",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "676cf1432ead2a5267cca661310daca745250d7c",
+   "size": 13098,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/676cf1432ead2a5267cca661310daca745250d7c"
+  },
+  {
+   "path": "docs/record-n16-algorithm-run-20261001.zh.md",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "b173bc33f2430a8c56ade16e07f5aa2a0e06c853",
+   "size": 4412,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/b173bc33f2430a8c56ade16e07f5aa2a0e06c853"
+  },
+  {
+   "path": "docs/record-n19-algorithm-run-20261001.en.html",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "fbde230d5f6a2e1d56b7ee868f5f57b6fe8604f6",
+   "size": 15000,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/fbde230d5f6a2e1d56b7ee868f5f57b6fe8604f6"
+  },
+  {
+   "path": "docs/record-n19-algorithm-run-20261001.en.md",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "f6983ba49f003dfc7665d3133638192cba7b3f90",
+   "size": 5364,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/f6983ba49f003dfc7665d3133638192cba7b3f90"
+  },
+  {
+   "path": "docs/record-n19-algorithm-run-20261001.html",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "fbde230d5f6a2e1d56b7ee868f5f57b6fe8604f6",
+   "size": 15000,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/fbde230d5f6a2e1d56b7ee868f5f57b6fe8604f6"
+  },
+  {
+   "path": "docs/record-n19-algorithm-run-20261001.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "9d195281bd579819b3e5e36174812107a3d686d8",
+   "size": 5397,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/9d195281bd579819b3e5e36174812107a3d686d8"
+  },
+  {
+   "path": "docs/record-n19-algorithm-run-20261001.zh.html",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "3ef01ffbbbca2c545cb4b2714514fdd38283cfd8",
+   "size": 13102,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/3ef01ffbbbca2c545cb4b2714514fdd38283cfd8"
+  },
+  {
+   "path": "docs/record-n19-algorithm-run-20261001.zh.md",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "65192d9c2f1fd8de11f19268453719dcee70dfa5",
+   "size": 4414,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/65192d9c2f1fd8de11f19268453719dcee70dfa5"
+  },
+  {
+   "path": "docs/record-n22-algorithm-run-20261001.en.html",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "23c4fed03252ef28a6d995fd175a1bf2b553e01d",
+   "size": 15000,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/23c4fed03252ef28a6d995fd175a1bf2b553e01d"
+  },
+  {
+   "path": "docs/record-n22-algorithm-run-20261001.en.md",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "f1536e36f629ecfefadbd295f38daddf8ccc6213",
+   "size": 5364,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/f1536e36f629ecfefadbd295f38daddf8ccc6213"
+  },
+  {
+   "path": "docs/record-n22-algorithm-run-20261001.html",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "23c4fed03252ef28a6d995fd175a1bf2b553e01d",
+   "size": 15000,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/23c4fed03252ef28a6d995fd175a1bf2b553e01d"
+  },
+  {
+   "path": "docs/record-n22-algorithm-run-20261001.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "caf973e0cf3e56f9417cd09099a149f4e028510e",
+   "size": 5400,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/caf973e0cf3e56f9417cd09099a149f4e028510e"
+  },
+  {
+   "path": "docs/record-n22-algorithm-run-20261001.zh.html",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "c36932d3f550b566d6991003b8eb925d70dbeecb",
+   "size": 13102,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/c36932d3f550b566d6991003b8eb925d70dbeecb"
+  },
+  {
+   "path": "docs/record-n22-algorithm-run-20261001.zh.md",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "7c5a38654f94155fce7dd5595103c096085dede2",
+   "size": 4414,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/7c5a38654f94155fce7dd5595103c096085dede2"
+  },
+  {
+   "path": "docs/record-n25-algorithm-run-20261001.en.html",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "da3e53571f225074011a804a5d93741f4cc87bea",
+   "size": 15786,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/da3e53571f225074011a804a5d93741f4cc87bea"
+  },
+  {
+   "path": "docs/record-n25-algorithm-run-20261001.en.md",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "40bd2deac1d5e91fd82588372cb9ec6c19967dc2",
+   "size": 5757,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/40bd2deac1d5e91fd82588372cb9ec6c19967dc2"
+  },
+  {
+   "path": "docs/record-n25-algorithm-run-20261001.html",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "da3e53571f225074011a804a5d93741f4cc87bea",
+   "size": 15786,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/da3e53571f225074011a804a5d93741f4cc87bea"
+  },
+  {
+   "path": "docs/record-n25-algorithm-run-20261001.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "90c1c6aec5c29861aa5b823e79e2a215ec541c13",
+   "size": 5477,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/90c1c6aec5c29861aa5b823e79e2a215ec541c13"
+  },
+  {
+   "path": "docs/record-n25-algorithm-run-20261001.zh.html",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "dbb90af7cef499c0d608f6b8fd64bbc2eda3c92a",
+   "size": 13728,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/dbb90af7cef499c0d608f6b8fd64bbc2eda3c92a"
+  },
+  {
+   "path": "docs/record-n25-algorithm-run-20261001.zh.md",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "2c909086b5fb752c22bbe313eb165db49bc0fd1d",
+   "size": 4727,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/2c909086b5fb752c22bbe313eb165db49bc0fd1d"
+  },
+  {
+   "path": "docs/record-n25-astra-20261002.en.html",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "e222647ac91a386509296f4da9f67180e70aad77",
+   "size": 37581,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/e222647ac91a386509296f4da9f67180e70aad77"
+  },
+  {
+   "path": "docs/record-n25-astra-20261002.en.md",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "e20c450692d1d1109d0de2e1d0b2239ef1d03294",
+   "size": 16575,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/e20c450692d1d1109d0de2e1d0b2239ef1d03294"
+  },
+  {
+   "path": "docs/record-n25-astra-20261002.html",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "e222647ac91a386509296f4da9f67180e70aad77",
+   "size": 37581,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/e222647ac91a386509296f4da9f67180e70aad77"
+  },
+  {
+   "path": "docs/record-n25-astra-20261002.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "7164933e6fa777a104df98989cac392b25100ac8",
+   "size": 8381,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/7164933e6fa777a104df98989cac392b25100ac8"
+  },
+  {
+   "path": "docs/record-n25-astra-20261002.md",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "e20c450692d1d1109d0de2e1d0b2239ef1d03294",
+   "size": 16575,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/e20c450692d1d1109d0de2e1d0b2239ef1d03294"
+  },
+  {
+   "path": "docs/record-n25-astra-20261002.zh.html",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "c9172a2e2327c703e790803fcaafa961c390517f",
+   "size": 33370,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/c9172a2e2327c703e790803fcaafa961c390517f"
+  },
+  {
+   "path": "docs/record-n25-astra-20261002.zh.md",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "f0613555737c8ec322e27e3c09d543b5fad6075c",
+   "size": 14538,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/f0613555737c8ec322e27e3c09d543b5fad6075c"
+  },
+  {
+   "path": "docs/record-n25-sol-20261002.en.html",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "6e0b01dcf4dc3a174cb835ea2fd45859dbd8b2c1",
+   "size": 22837,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/6e0b01dcf4dc3a174cb835ea2fd45859dbd8b2c1"
+  },
+  {
+   "path": "docs/record-n25-sol-20261002.en.md",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "205e0a2653648fa91518167e1b54c84f762eed49",
+   "size": 9288,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/205e0a2653648fa91518167e1b54c84f762eed49"
+  },
+  {
+   "path": "docs/record-n25-sol-20261002.html",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "6e0b01dcf4dc3a174cb835ea2fd45859dbd8b2c1",
+   "size": 22837,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/6e0b01dcf4dc3a174cb835ea2fd45859dbd8b2c1"
+  },
+  {
+   "path": "docs/record-n25-sol-20261002.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "05d224b869fbb4075425cc13a945b5d9ed4b89af",
+   "size": 9349,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/05d224b869fbb4075425cc13a945b5d9ed4b89af"
+  },
+  {
+   "path": "docs/record-n25-sol-20261002.md",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "205e0a2653648fa91518167e1b54c84f762eed49",
+   "size": 9288,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/205e0a2653648fa91518167e1b54c84f762eed49"
+  },
+  {
+   "path": "docs/record-n25-sol-20261002.zh.html",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "2629e00173026bf83363a3857a9f109a3e66acf4",
+   "size": 19598,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/2629e00173026bf83363a3857a9f109a3e66acf4"
+  },
+  {
+   "path": "docs/record-n25-sol-20261002.zh.md",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "a162915244bab4d696b9f655fd2c7e23d159f44a",
+   "size": 7682,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/a162915244bab4d696b9f655fd2c7e23d159f44a"
+  },
+  {
+   "path": "docs/record-n26-algorithm-run-20261001.en.html",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "ea6fd26e7149d3db2bb66c58044544e014083b39",
+   "size": 15946,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/ea6fd26e7149d3db2bb66c58044544e014083b39"
+  },
+  {
+   "path": "docs/record-n26-algorithm-run-20261001.en.md",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "acfd0bfb0d14b790ceea19025c34d4f034fdf565",
+   "size": 5837,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/acfd0bfb0d14b790ceea19025c34d4f034fdf565"
+  },
+  {
+   "path": "docs/record-n26-algorithm-run-20261001.html",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "ea6fd26e7149d3db2bb66c58044544e014083b39",
+   "size": 15946,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/ea6fd26e7149d3db2bb66c58044544e014083b39"
+  },
+  {
+   "path": "docs/record-n26-algorithm-run-20261001.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "723e0c8ff67c7f0613be10eb0db1ff2e32aefa82",
+   "size": 5559,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/723e0c8ff67c7f0613be10eb0db1ff2e32aefa82"
+  },
+  {
+   "path": "docs/record-n26-algorithm-run-20261001.zh.html",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "eba8b8ff1229a7c1eb1770d39b5f30193b3d6df8",
+   "size": 13832,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/eba8b8ff1229a7c1eb1770d39b5f30193b3d6df8"
+  },
+  {
+   "path": "docs/record-n26-algorithm-run-20261001.zh.md",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "fe7a139fd978d62e9e08cfd8163e0aad71af2b68",
+   "size": 4779,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/fe7a139fd978d62e9e08cfd8163e0aad71af2b68"
+  },
+  {
+   "path": "docs/record-n27-algorithm-run-20261005.en.html",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "d82ac5f845d0d8a7e6d0eb64fa15becc96a3dc09",
+   "size": 13013,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/d82ac5f845d0d8a7e6d0eb64fa15becc96a3dc09"
+  },
+  {
+   "path": "docs/record-n27-algorithm-run-20261005.en.md",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "e197a598a882d3d454386045f3ff41fc4b3d39eb",
+   "size": 4356,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/e197a598a882d3d454386045f3ff41fc4b3d39eb"
+  },
+  {
+   "path": "docs/record-n27-algorithm-run-20261005.html",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "d82ac5f845d0d8a7e6d0eb64fa15becc96a3dc09",
+   "size": 13013,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/d82ac5f845d0d8a7e6d0eb64fa15becc96a3dc09"
+  },
+  {
+   "path": "docs/record-n27-algorithm-run-20261005.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "47152dc284d02ec64ac0f98b981660c2e07010b8",
+   "size": 963,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/47152dc284d02ec64ac0f98b981660c2e07010b8"
+  },
+  {
+   "path": "docs/record-n27-algorithm-run-20261005.md",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "e197a598a882d3d454386045f3ff41fc4b3d39eb",
+   "size": 4356,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/e197a598a882d3d454386045f3ff41fc4b3d39eb"
+  },
+  {
+   "path": "docs/record-n27-algorithm-run-20261005.zh.html",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "62fe1114fd0740652c04723e494eabaaa55c58b4",
+   "size": 11306,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/62fe1114fd0740652c04723e494eabaaa55c58b4"
+  },
+  {
+   "path": "docs/record-n27-algorithm-run-20261005.zh.md",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "69b14060ab824fa8ab2735bbfb47ec91d9a52b94",
+   "size": 3501,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/69b14060ab824fa8ab2735bbfb47ec91d9a52b94"
+  },
+  {
+   "path": "docs/records.en.html",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "9d8cf4a92e155316083b36db305a6040b3f1bb91",
+   "size": 20335,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/9d8cf4a92e155316083b36db305a6040b3f1bb91"
+  },
+  {
+   "path": "docs/records.en.md",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "5b4438637e7464cb5b08e4ce80b77b0eb7bf9012",
+   "size": 8149,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/5b4438637e7464cb5b08e4ce80b77b0eb7bf9012"
+  },
+  {
+   "path": "docs/records.html",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "9d8cf4a92e155316083b36db305a6040b3f1bb91",
+   "size": 20335,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/9d8cf4a92e155316083b36db305a6040b3f1bb91"
+  },
+  {
+   "path": "docs/records.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "a0484f8487b8c1d1c64b5fd24594a74abb3d10c9",
+   "size": 25074,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/a0484f8487b8c1d1c64b5fd24594a74abb3d10c9"
+  },
+  {
+   "path": "docs/records.md",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "c4ac748cbdc23fdd7f2b5db3d0533379c1bbb68b",
+   "size": 7391,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/c4ac748cbdc23fdd7f2b5db3d0533379c1bbb68b"
+  },
+  {
+   "path": "docs/records.zh.html",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "7df5609958dc98e934034c95c4c54c0805772d18",
+   "size": 18826,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/7df5609958dc98e934034c95c4c54c0805772d18"
+  },
+  {
+   "path": "docs/records.zh.md",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "c4ac748cbdc23fdd7f2b5db3d0533379c1bbb68b",
+   "size": 7391,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/c4ac748cbdc23fdd7f2b5db3d0533379c1bbb68b"
+  },
+  {
+   "path": "docs/report-prompt.en.txt",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "6e0c479b4d0a1f299f5ea08307a0bc7dab9b263d",
+   "size": 5950,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/6e0c479b4d0a1f299f5ea08307a0bc7dab9b263d"
+  },
+  {
+   "path": "docs/report-prompt.txt",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "2b0ee5c11f54a265cc45abab171e93e119f8008b",
+   "size": 5405,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/2b0ee5c11f54a265cc45abab171e93e119f8008b"
+  },
+  {
+   "path": "docs/report.en.html",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "e9c50af52485ff7d7d3382588f00ec466609bb9e",
+   "size": 16297,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/e9c50af52485ff7d7d3382588f00ec466609bb9e"
+  },
+  {
+   "path": "docs/report.html",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "e9c50af52485ff7d7d3382588f00ec466609bb9e",
+   "size": 16297,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/e9c50af52485ff7d7d3382588f00ec466609bb9e"
+  },
+  {
+   "path": "docs/report.zh.html",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "e8460fd645d96ad3fd15b4aea654d2168775c180",
+   "size": 15077,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/e8460fd645d96ad3fd15b4aea654d2168775c180"
+  },
+  {
+   "path": "docs/reports",
+   "mode": "040000",
+   "type": "tree",
+   "sha": "c78ef0aa37e7297d881b747c298e7b0130ae8fe6",
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/trees/c78ef0aa37e7297d881b747c298e7b0130ae8fe6"
+  },
+  {
+   "path": "docs/reports/n11-astra-followup-prompt.original.txt",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "a70eb592139012b6a991a5a8eab1e9da973f0dee",
+   "size": 46,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/a70eb592139012b6a991a5a8eab1e9da973f0dee"
+  },
+  {
+   "path": "docs/reports/n11-astra-main-prompt.original.txt",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "af825ee64a722a2d8b5b7259e31dc3527af05dc0",
+   "size": 1636,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/af825ee64a722a2d8b5b7259e31dc3527af05dc0"
+  },
+  {
+   "path": "docs/reports/n11-deepseek-main-prompt.original.txt",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "5cb2ad081517ee7c196492a9b535e27eae8f9d0b",
+   "size": 3093,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/5cb2ad081517ee7c196492a9b535e27eae8f9d0b"
+  },
+  {
+   "path": "docs/reports/n11-sol-main-prompt.original.txt",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "a32b107a58e315cf63a28a86f6791f86980b9692",
+   "size": 1594,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/a32b107a58e315cf63a28a86f6791f86980b9692"
+  },
+  {
+   "path": "docs/reports/n12-astra-main-prompt.original.txt",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "cc94e07be4247146af7e2a16bfc353c3ddbce5f0",
+   "size": 3153,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/cc94e07be4247146af7e2a16bfc353c3ddbce5f0"
+  },
+  {
+   "path": "docs/reports/n12-deepseek-main-prompt.original.txt",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "5bbef2235d5eac19949b118e31f0d843e958d120",
+   "size": 3733,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/5bbef2235d5eac19949b118e31f0d843e958d120"
+  },
+  {
+   "path": "docs/reports/n12-sol-main-prompt.original.txt",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "9e464a4d47b0c5c2815de821e8b173edbf406854",
+   "size": 3104,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/9e464a4d47b0c5c2815de821e8b173edbf406854"
+  },
+  {
+   "path": "docs/reports/n13-codex-main-prompt.original.txt",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "e388644f88864b9b557fe84f91335ed7f6353aaa",
+   "size": 971,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/e388644f88864b9b557fe84f91335ed7f6353aaa"
+  },
+  {
+   "path": "docs/reports/n13-sol-main-prompt.original.txt",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "23d5dafbf82acf8fcf74bafc27c40f6fe7378ffb",
+   "size": 978,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/23d5dafbf82acf8fcf74bafc27c40f6fe7378ffb"
+  },
+  {
+   "path": "docs/reports/n25-astra-main-prompt.original.txt",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "ca3ba50679b37bce0590dd2db6e4c7c1322c19be",
+   "size": 973,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/ca3ba50679b37bce0590dd2db6e4c7c1322c19be"
+  },
+  {
+   "path": "docs/reports/n25-sol-main-prompt.original.txt",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "6a0b5434a5450612f4764ed5c96c55a3c5440015",
+   "size": 971,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/6a0b5434a5450612f4764ed5c96c55a3c5440015"
+  },
+  {
+   "path": "docs/score.py",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "e3bd8527c8c51c3839b203fdec362061114d0e81",
+   "size": 4586,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/e3bd8527c8c51c3839b203fdec362061114d0e81"
+  },
+  {
+   "path": "docs/scoring.en.html",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "ae22b98a7f1198f9789065464b836e419e5b6d1a",
+   "size": 13967,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/ae22b98a7f1198f9789065464b836e419e5b6d1a"
+  },
+  {
+   "path": "docs/scoring.en.md",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "ea5d8bfa894d8655a4c672af138208f80a5e4061",
+   "size": 4937,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/ea5d8bfa894d8655a4c672af138208f80a5e4061"
+  },
+  {
+   "path": "docs/scoring.html",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "ae22b98a7f1198f9789065464b836e419e5b6d1a",
+   "size": 13967,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/ae22b98a7f1198f9789065464b836e419e5b6d1a"
+  },
+  {
+   "path": "docs/scoring.md",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "6c6bbd59c0bb425b3592b1635c920e2327db9eb3",
+   "size": 4245,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/6c6bbd59c0bb425b3592b1635c920e2327db9eb3"
+  },
+  {
+   "path": "docs/scoring.zh.html",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "5432eb3fff738c68b21ee483af0f944d4de59160",
+   "size": 12542,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/5432eb3fff738c68b21ee483af0f944d4de59160"
+  },
+  {
+   "path": "docs/style.css",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "2e0b40ac5ad79cf4476b563fa6a6f9a7125cf4e4",
+   "size": 10236,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/2e0b40ac5ad79cf4476b563fa6a6f9a7125cf4e4"
+  },
+  {
+   "path": "docs/test-guide.en.md",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "53079015f18d91b651178b722ecd0616910f38bf",
+   "size": 6326,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/53079015f18d91b651178b722ecd0616910f38bf"
+  },
+  {
+   "path": "docs/test-guide.md",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "4771838893b17a42d386c4e88b43c5f21c71a0ba",
+   "size": 5434,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/4771838893b17a42d386c4e88b43c5f21c71a0ba"
+  },
+  {
+   "path": "docs/vendor",
+   "mode": "040000",
+   "type": "tree",
+   "sha": "15628341aa015ecd25ca44bece1d66df7c707fe8",
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/trees/15628341aa015ecd25ca44bece1d66df7c707fe8"
+  },
+  {
+   "path": "docs/vendor/LICENSE.DOMPurify",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "d645695673349e3947e8e5ae42332d0ac3164cd7",
+   "size": 11358,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/d645695673349e3947e8e5ae42332d0ac3164cd7"
+  },
+  {
+   "path": "docs/vendor/dompurify.js",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "00742c47118a703f414f6a116ddff07965d8e59e",
+   "size": 28885,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/00742c47118a703f414f6a116ddff07965d8e59e"
+  },
+  {
+   "path": "docs/vendor/marked-LICENSE.txt",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "4bd2d4a084987ab634893a29f72ff6d1a67bf658",
+   "size": 2942,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/4bd2d4a084987ab634893a29f72ff6d1a67bf658"
+  },
+  {
+   "path": "docs/vendor/marked.js",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "4a215efc4c50d920ee78291a4087ea05167bb5c6",
+   "size": 46891,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/4a215efc4c50d920ee78291a4087ea05167bb5c6"
+  },
+  {
+   "path": "docs/vendor/mathjax-LICENSE.txt",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "d645695673349e3947e8e5ae42332d0ac3164cd7",
+   "size": 11358,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/d645695673349e3947e8e5ae42332d0ac3164cd7"
+  },
+  {
+   "path": "docs/vendor/mathjax-tex-svg-full.js",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "b3388d20a8d2773b001eebd3211ef1a337335d67",
+   "size": 2275113,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/b3388d20a8d2773b001eebd3211ef1a337335d67"
+  },
+  {
+   "path": "docs/vendor/mathjax-ui-safe.js",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "f6688f36a15633b15ca3fcb1ad6a6f24af35cd78",
+   "size": 11189,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/f6688f36a15633b15ca3fcb1ad6a6f24af35cd78"
+  },
+  {
+   "path": "docs/vendor/versions.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "e2136495ed0380b12d4cb8745dc1b108f18c15d5",
+   "size": 1339,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/e2136495ed0380b12d4cb8745dc1b108f18c15d5"
+  },
+  {
+   "path": "package-manifest.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "66eac0077d32bfae000a35d4a5d0c48a7677c759",
+   "size": 1671,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/66eac0077d32bfae000a35d4a5d0c48a7677c759"
+  },
+  {
+   "path": "prompts",
+   "mode": "040000",
+   "type": "tree",
+   "sha": "2d3eb21db7667aa9a12a76557376de69acfccc23",
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/trees/2d3eb21db7667aa9a12a76557376de69acfccc23"
+  },
+  {
+   "path": "prompts/research-work-report.en.txt",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "6e0c479b4d0a1f299f5ea08307a0bc7dab9b263d",
+   "size": 5950,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/6e0c479b4d0a1f299f5ea08307a0bc7dab9b263d"
+  },
+  {
+   "path": "prompts/research-work-report.txt",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "2b0ee5c11f54a265cc45abab171e93e119f8008b",
+   "size": 5405,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/2b0ee5c11f54a265cc45abab171e93e119f8008b"
+  },
+  {
+   "path": "results",
+   "mode": "040000",
+   "type": "tree",
+   "sha": "95a1b26b44d5a60554b371fbac2ef6f929779d43",
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/trees/95a1b26b44d5a60554b371fbac2ef6f929779d43"
+  },
+  {
+   "path": "results/README.en.md",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "cde23a1c58ddf67f3445651b346057a3e7f099a9",
+   "size": 8525,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/cde23a1c58ddf67f3445651b346057a3e7f099a9"
+  },
+  {
+   "path": "results/README.md",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "dbaf89812cc9ba8be803060552856efe4c87e10d",
+   "size": 7774,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/dbaf89812cc9ba8be803060552856efe4c87e10d"
+  },
+  {
+   "path": "results/n11.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "cdc91bbbe4d68d805829c8698fccaf6e5bb5bc6c",
+   "size": 4477,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/cdc91bbbe4d68d805829c8698fccaf6e5bb5bc6c"
+  },
+  {
+   "path": "results/n12.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "b4b43858fcdd795f078a453328adba3bb4f3e66e",
+   "size": 14289,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/b4b43858fcdd795f078a453328adba3bb4f3e66e"
+  },
+  {
+   "path": "results/n13-report-sources.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "695c235540413eb08979d44512bd28995172fba4",
+   "size": 6213,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/695c235540413eb08979d44512bd28995172fba4"
+  },
+  {
+   "path": "results/n13-score-output.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "e2e71502e87a7cacf8fa890ac7492b28efac8bfa",
+   "size": 489,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/e2e71502e87a7cacf8fa890ac7492b28efac8bfa"
+  },
+  {
+   "path": "results/n13-sol-score-output.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "e2e71502e87a7cacf8fa890ac7492b28efac8bfa",
+   "size": 489,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/e2e71502e87a7cacf8fa890ac7492b28efac8bfa"
+  },
+  {
+   "path": "results/n13-sol-timing.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "10667686695ee1f9ac88f4f27fb3fd398f4edd00",
+   "size": 12759,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/10667686695ee1f9ac88f4f27fb3fd398f4edd00"
+  },
+  {
+   "path": "results/n13.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "a392da00f31ac652f79545b8f76c4be48cadb563",
+   "size": 53837,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/a392da00f31ac652f79545b8f76c4be48cadb563"
+  },
+  {
+   "path": "results/n25.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "69128e48994283c27eae39d1db1085508661f0bd",
+   "size": 7876,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/69128e48994283c27eae39d1db1085508661f0bd"
+  },
+  {
+   "path": "tasks",
+   "mode": "040000",
+   "type": "tree",
+   "sha": "b1e792e4caf71e430510ccaf2946ce7d9a88ff66",
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/trees/b1e792e4caf71e430510ccaf2946ce7d9a88ff66"
+  },
+  {
+   "path": "tasks/n11.en.md",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "1030383f577a3fe084987b2455ffaa37ea7d0549",
+   "size": 3356,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/1030383f577a3fe084987b2455ffaa37ea7d0549"
+  },
+  {
+   "path": "tasks/n11.md",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "9b7fd6ff1c02c8b1e21e94b0f65bbfbb29a6e451",
+   "size": 2719,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/9b7fd6ff1c02c8b1e21e94b0f65bbfbb29a6e451"
+  },
+  {
+   "path": "tasks/n12.en.md",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "e63a42770f6dbbc2ed9c165c520ba1658eddf4a6",
+   "size": 3356,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/e63a42770f6dbbc2ed9c165c520ba1658eddf4a6"
+  },
+  {
+   "path": "tasks/n12.md",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "31cf3979842ba99d8a5914543d6554958da5af34",
+   "size": 2719,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/31cf3979842ba99d8a5914543d6554958da5af34"
+  },
+  {
+   "path": "tasks/n13.en.md",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "ab86e0d687a4147c71ce75ed26177c8bc8af8101",
+   "size": 3356,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/ab86e0d687a4147c71ce75ed26177c8bc8af8101"
+  },
+  {
+   "path": "tasks/n13.md",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "0018a686bfa214e76a296ef2216c993a4f1f8e62",
+   "size": 2719,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/0018a686bfa214e76a296ef2216c993a4f1f8e62"
+  },
+  {
+   "path": "tasks/n14.en.md",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "102b944260de80a23b272f4bc48317c33fd5b979",
+   "size": 3356,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/102b944260de80a23b272f4bc48317c33fd5b979"
+  },
+  {
+   "path": "tasks/n14.md",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "7678d10f8acaead7c4ba1d0cdaca3868a7195f70",
+   "size": 2719,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/7678d10f8acaead7c4ba1d0cdaca3868a7195f70"
+  },
+  {
+   "path": "tasks/n15.en.md",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "1f4169418504f4de47b4e77f05a673a657656a9e",
+   "size": 3356,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/1f4169418504f4de47b4e77f05a673a657656a9e"
+  },
+  {
+   "path": "tasks/n15.md",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "429195019abcd34c6a3ff27b5f98dc301945ea57",
+   "size": 2719,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/429195019abcd34c6a3ff27b5f98dc301945ea57"
+  },
+  {
+   "path": "tasks/n16.en.md",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "39c37fc53b6aeabf8158b835423a2e647f15d10e",
+   "size": 3356,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/39c37fc53b6aeabf8158b835423a2e647f15d10e"
+  },
+  {
+   "path": "tasks/n16.md",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "e0f7594f70429c74bcb87a6dad6575a16f1bc003",
+   "size": 2719,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/e0f7594f70429c74bcb87a6dad6575a16f1bc003"
+  },
+  {
+   "path": "tasks/n17.en.md",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "d810772301dc88660a68d3bfd0fbf6611108420a",
+   "size": 3356,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/d810772301dc88660a68d3bfd0fbf6611108420a"
+  },
+  {
+   "path": "tasks/n17.md",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "b622ea43811a98f2b8f1f1c2f8c7bf0f65e6b442",
+   "size": 2719,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/b622ea43811a98f2b8f1f1c2f8c7bf0f65e6b442"
+  },
+  {
+   "path": "tasks/n18.en.md",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "54f4820d23c40d6e475dcec00f15cbd6bcc00d34",
+   "size": 3356,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/54f4820d23c40d6e475dcec00f15cbd6bcc00d34"
+  },
+  {
+   "path": "tasks/n18.md",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "75e9a951eca3dee3a925b4a73fd03253b0ffb650",
+   "size": 2719,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/75e9a951eca3dee3a925b4a73fd03253b0ffb650"
+  },
+  {
+   "path": "tasks/n19.en.md",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "88c3763912388443058d0c8f43cb78ae52e224ca",
+   "size": 3356,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/88c3763912388443058d0c8f43cb78ae52e224ca"
+  },
+  {
+   "path": "tasks/n19.md",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "9b7c9efa9dda6666f07f99d307c6fad6778ad933",
+   "size": 2719,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/9b7c9efa9dda6666f07f99d307c6fad6778ad933"
+  },
+  {
+   "path": "tasks/n20.en.md",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "a1c4a46b301ceca4731b4a41f50690515c7c2d03",
+   "size": 3356,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/a1c4a46b301ceca4731b4a41f50690515c7c2d03"
+  },
+  {
+   "path": "tasks/n20.md",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "8f651dca94a0c3e95e89ede810d7c62d6bda0f2d",
+   "size": 2719,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/8f651dca94a0c3e95e89ede810d7c62d6bda0f2d"
+  },
+  {
+   "path": "tasks/n21.en.md",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "58b05d4bda7ac19db1f7b2c1b9371cacb84c874b",
+   "size": 3356,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/58b05d4bda7ac19db1f7b2c1b9371cacb84c874b"
+  },
+  {
+   "path": "tasks/n21.md",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "91c0d521a3772e7e79c91981168445aab2552b34",
+   "size": 2719,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/91c0d521a3772e7e79c91981168445aab2552b34"
+  },
+  {
+   "path": "tasks/n22.en.md",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "ebb231773bd64dfd61b79950e30af3f8bf3c2d2a",
+   "size": 3356,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/ebb231773bd64dfd61b79950e30af3f8bf3c2d2a"
+  },
+  {
+   "path": "tasks/n22.md",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "6507ca87c5defb1dd8ec13455b9643289ef065af",
+   "size": 2719,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/6507ca87c5defb1dd8ec13455b9643289ef065af"
+  },
+  {
+   "path": "tasks/n23.en.md",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "14ce32112e02fce5031386eb150207ea628d3b24",
+   "size": 3356,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/14ce32112e02fce5031386eb150207ea628d3b24"
+  },
+  {
+   "path": "tasks/n23.md",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "2e4a6d1f070720e9c0687763ac1830eae09ac6d8",
+   "size": 2719,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/2e4a6d1f070720e9c0687763ac1830eae09ac6d8"
+  },
+  {
+   "path": "tasks/n24.en.md",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "7fe4fdd11f6482e5d47303f91b40b9f30fde927c",
+   "size": 3356,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/7fe4fdd11f6482e5d47303f91b40b9f30fde927c"
+  },
+  {
+   "path": "tasks/n24.md",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "cd59ac0923f21ee86147f8903e5368f2d90ba893",
+   "size": 2719,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/cd59ac0923f21ee86147f8903e5368f2d90ba893"
+  },
+  {
+   "path": "tasks/n25.en.md",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "1df06a71c42c1773c356deddb19d5ae4b425d942",
+   "size": 3356,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/1df06a71c42c1773c356deddb19d5ae4b425d942"
+  },
+  {
+   "path": "tasks/n25.md",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "5f6b9351831454816dc5839e78ef2a5a2f23e8a2",
+   "size": 2719,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/5f6b9351831454816dc5839e78ef2a5a2f23e8a2"
+  },
+  {
+   "path": "tasks/n26.en.md",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "3dcbaf8374938363d68fedf7bfec9408b5f592f1",
+   "size": 3356,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/3dcbaf8374938363d68fedf7bfec9408b5f592f1"
+  },
+  {
+   "path": "tasks/n26.md",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "d8ee57d0984ab11322430ba5592fc6044c495bce",
+   "size": 2719,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/d8ee57d0984ab11322430ba5592fc6044c495bce"
+  },
+  {
+   "path": "tasks/n27.en.md",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "d01fd08b421a3cd56f043495ca84d27de29ccbf5",
+   "size": 3356,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/d01fd08b421a3cd56f043495ca84d27de29ccbf5"
+  },
+  {
+   "path": "tasks/n27.md",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "c3600000a33f51e49c3766a49582e38da68edd47",
+   "size": 2719,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/c3600000a33f51e49c3766a49582e38da68edd47"
+  },
+  {
+   "path": "tasks/n28.en.md",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "4339f6886d6f10f2083a2494be880d80959b150c",
+   "size": 3356,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/4339f6886d6f10f2083a2494be880d80959b150c"
+  },
+  {
+   "path": "tasks/n28.md",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "4662997bf71b54cf70551c092ce5e8017d3eaf4b",
+   "size": 2719,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/4662997bf71b54cf70551c092ce5e8017d3eaf4b"
+  },
+  {
+   "path": "tasks/n29.en.md",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "857dc97685944707413f6868b748818ad42d6151",
+   "size": 3356,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/857dc97685944707413f6868b748818ad42d6151"
+  },
+  {
+   "path": "tasks/n29.md",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "cd16669960d5f2e2a0c224dffd17e5d16198e194",
+   "size": 2719,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/cd16669960d5f2e2a0c224dffd17e5d16198e194"
+  },
+  {
+   "path": "tools",
+   "mode": "040000",
+   "type": "tree",
+   "sha": "489e413e2102b8c8844634e50d603d5a8c6743b4",
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/trees/489e413e2102b8c8844634e50d603d5a8c6743b4"
+  },
+  {
+   "path": "tools/check_tools.py",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "aebf883a4b863e418f98bd36932735f3db1508cb",
+   "size": 6395,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/aebf883a4b863e418f98bd36932735f3db1508cb"
+  },
+  {
+   "path": "tools/diskcover_answer.py",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "e18d84236e15ecf9392014ea392c65f02a8e6a46",
+   "size": 3729,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/e18d84236e15ecf9392014ea392c65f02a8e6a46"
+  },
+  {
+   "path": "tools/score.py",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "e3bd8527c8c51c3839b203fdec362061114d0e81",
+   "size": 4586,
+   "url": "https://api.github.com/repos/pikaaa345/disk-covering-benchmark/git/blobs/e3bd8527c8c51c3839b203fdec362061114d0e81"
+  }
+ ],
+ "truncated": false
+}

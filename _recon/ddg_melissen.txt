@@ -1,0 +1,21 @@
+=== https://html.duckduckgo.com/html/?q= :: 'Melissen covering a circle with congruent circles 1997' :: 10 links, html 34336
+   PDF New circle coverings of an equilateral triangle  <//duckduckgo.com/l/?uddg=https%3A%2F%2Fris.utwente.nl%2Fws%2Ffiles%2F280923669%2FMelissen1997new.pdf&amp;rut=f4e83dbe459155122adf57e91232581e37dbad97057855f1e86>
+   (PDF) New circle coverings of an equilateral triangle  <//duckduckgo.com/l/?uddg=https%3A%2F%2Fwww.academia.edu%2F125463353%2FNew_circle_coverings_of_an_equilateral_triangle&amp;rut=ddf6a8f7c7a64bcc0c68e17e90cfd3333c>
+   Packing and Covering with Circles - Utrecht University  <//duckduckgo.com/l/?uddg=https%3A%2F%2Fresearch%2Dportal.uu.nl%2Fen%2Fpublications%2Fpacking%2Dand%2Dcovering%2Dwith%2Dcircles%2F&amp;rut=e3bb1d891a804f45027256>
+   New circle coverings of an equilateral triangle  <//duckduckgo.com/l/?uddg=https%3A%2F%2Fresearch.utwente.nl%2Fen%2Fpublications%2Fnew%2Dcircle%2Dcoverings%2Dof%2Dan%2Dequilateral%2Dtriangle%2F&amp;rut=71c72121>
+   PDF Densest Packings of Congruent Circles in an Equilateral Triangle  <//duckduckgo.com/l/?uddg=https%3A%2F%2Fwww.jstor.org%2Fstable%2Fpdf%2F2324212.pdf&amp;rut=87cc94d2ee841baf9c40ec426c3abe6685f6e7903f410711e488c307793b4183>
+   (PDF) Loosest Circle Coverings of an Equilateral Triangle  <//duckduckgo.com/l/?uddg=https%3A%2F%2Fwww.academia.edu%2F125463350%2FLoosest_Circle_Coverings_of_an_Equilateral_Triangle&amp;rut=4e24cdba76a5e61e0d02d873dbd607>
+   Loosest Circle Coverings of an Equilateral Triangle  <//duckduckgo.com/l/?uddg=https%3A%2F%2Fwww.tandfonline.com%2Fdoi%2Fabs%2F10.1080%2F0025570X.1997.11996514&amp;rut=27e6b7d376bf2c36801bbd520e0511fdf737d246cce8fc>
+   Packing and covering with circles - Open Library  <//duckduckgo.com/l/?uddg=https%3A%2F%2Fopenlibrary.org%2Fbooks%2FOL19190974M%2FPacking_and_covering_with_circles&amp;rut=2d8c9eccbce1717d2316611abf07bcd686a40c2>
+   New circle coverings of an equilateral triangle  <//duckduckgo.com/l/?uddg=https%3A%2F%2Fresearch.tue.nl%2Fen%2Fpublications%2Fnew%2Dcircle%2Dcoverings%2Dof%2Dan%2Dequilateral%2Dtriangle%2F&amp;rut=be282cdac3be>
+   Hans MELISSEN | Professor (Assistant) | PhD | Ministry of Defense ...  <//duckduckgo.com/l/?uddg=https%3A%2F%2Fwww.researchgate.net%2Fprofile%2FHans%2DMelissen&amp;rut=7e6b23129a8f60f62a2005ceb472731fbecec8d35d75f9a49159931803dc357e>
+     snip: He determined the thinnest coverings of an equilateral triangle with n congruent circles for n ~ 6 [5] and for n = 10 [6]. In Section 2 we will give an optimality proof for a covering with nine circles. Also, we will give a proof for n = 10 that is m
+     snip: Table 1: Covering radius 7, for a unilateral triangle. If there are two double-edge circles, there are two gaps adjacent to a vertex circle that has no corresponding double-edge circle. This leaves two possible situations. Figure 2: Optimal (n &lt; 6
+     snip: Melissen, JBM 1997, &#x27; Packing and Covering with Circles &#x27;, Doctor of Philosophy, Universiteit Utrecht.
+     snip: Melissen, JBM, Schuur, PC, Heppes, A, Gáspár, Z &amp; Tarnai, T 1997, New circle coverings of an equilateral triangle. BETA Working Paper, no. PR-21, BETA Research School for Operations Management and Logistics, Eindhoven.
+     snip: 916 DENSEST PACKINGS OF CONGRUENT CIRCLES [December Optimal circle packings in a square have been constructed for n = 6 by Graham, for n = 7 by Schaer (both unpublished), for n = 8 by Schaer and Meir [14] and for n = 9 by Schaer [15].
+     snip: Recently, Heppes and Melissen [5] found the optimal coverings of a general rectangle with 2, 3, 4, 5, and 7 circles. In analogy to covering a circle and a square with circles and packing an equilateral triangle with circles ( [7, 8, 9]), we will cons
+     snip: (1997). Loosest Circle Coverings of an Equilateral Triangle. Mathematics Magazine: Vol. 70, No. 2, pp. 118-124.
+     snip: Packing and covering with circles = by Johannes Bernardus Marinus Melissen, 1997, s.n.] edition, in English
+     snip: Melissen, JBM, Schuur, PC &amp; Heppes, A 1997, New circle coverings of an equilateral triangle. BETA publicatie : working papers, vol. 16, BETA publicatie : preprints, vol. 21, Technische Universiteit Eindhoven, Eindhoven.
+     snip: Densest packings of eleven congruent circles in a circle Article Mar 1994 Hans Bernardus Melissen

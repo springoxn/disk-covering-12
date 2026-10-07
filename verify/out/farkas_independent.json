@@ -1,0 +1,7 @@
+{
+ "verified": true,
+ "total_orbits": 38208,
+ "total_residual": 132,
+ "excluded": 38076,
+ "two_pi_lower_bound": "314159265358979/50000000000000"
+}

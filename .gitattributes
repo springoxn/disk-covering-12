@@ -1,0 +1,4 @@
+# Keep every file byte-identical to what verify/SHA256SUMS hashes.
+# The integrity manifest covers the working-copy bytes, so EOL conversion must
+# be off in both directions.
+* -text

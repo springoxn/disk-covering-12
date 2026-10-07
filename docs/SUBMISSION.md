@@ -72,7 +72,7 @@
 上游 `benchmark.json` 的 `public_submissions_open = false`，即 benchmark **当前没有
 公开提交入口**，公开记录为发布者所有。因此本报告的发布形式是**一个公开 git 仓库**：
 
-- 仓库地址：见 `README.md`（本节在推送后更新）
+- 仓库地址：**https://github.com/springoxn/disk-covering-12**（public，`main` 分支）
 - 包内自检材料：`submission/`（系数、半径、原始自检输出、协议命令）
 - 完整证明材料：**协议 v1 不要求上传**（"本版不要求上传大型证明包；证明材料可自行保留"），
   故随仓库一并保留在 `verify/`、`docs/RESULT.md`
@@ -82,7 +82,8 @@
 任何人可用两条命令复算本报告的指纹（只需 Python 3.9+ 标准库）：
 
 ```sh
-git clone <本仓库> && cd ADB
+git clone https://github.com/springoxn/disk-covering-12
+cd disk-covering-12
 python _recon/benchmark/diskcover_answer.py --n 12 \
     --coefficients submission/coefficients.json \
     --radius "$(cat submission/radius.txt)" \

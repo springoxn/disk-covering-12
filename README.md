@@ -1,8 +1,14 @@
 # ADB —— 12 个等圆盘覆盖单位圆盘（r_D(12)）
 
+**仓库**：https://github.com/springoxn/disk-covering-12 （public，`main`）
+
 任务源：`goal.md`（见 `docs/goal.md`）。目标：求 `r_D(12)`，给出**极小多项式**（全部系数、
 不可约性、有理隔离区间与唯一根）、精确配置、覆盖证明、全局最优性证明、完整可复现的
 计算机辅助验证材料。
+
+**一句话结果**：`r_D(12) = α`，`α` 是一个 37 次本原多项式的根；用官方 benchmark 脚本
+`tools/diskcover_answer.py` 复算，指纹与公布的标准答案一致
+（`35d604a5…f947`，`matches_reference: true`）。
 
 ## 目录
 

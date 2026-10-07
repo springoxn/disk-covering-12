@@ -1,0 +1,13 @@
+{
+ "repo_url": "https://github.com/springoxn/disk-covering-12",
+ "commit": "67dfb641f2692308685cf1cf7bd7c8fcac8d08c1",
+ "commit_date": "2026-10-07T23:34:24+08:00",
+ "tracked_files": 146,
+ "manifest_ok": 80,
+ "manifest_bad": 0,
+ "manifest_mismatches": [],
+ "selfcheck_exit_code": 0,
+ "selfcheck_sha256": "35d604a5ea1b1fe5c52c30337743c1a8142b69827023284f9597e1ca9cb8f947",
+ "selfcheck_matches_reference": true,
+ "expected_sha256": "35d604a5ea1b1fe5c52c30337743c1a8142b69827023284f9597e1ca9cb8f947"
+}

@@ -94,3 +94,22 @@ python _recon/benchmark/diskcover_answer.py --n 12 \
 
 > 说明：`_recon/benchmark/diskcover_answer.py` 是**上游脚本的本地副本**，
 > 未作任何修改（上游路径 `tools/diskcover_answer.py`）。
+
+### 对**已发布产物**的核对（不是对本地目录）
+
+上面的命令已在一份**全新克隆**上实际跑过，脚本可重跑：
+
+```sh
+python verify/published_clone_check.py
+```
+
+它做两件事：① 逐条复算克隆里 `verify/SHA256SUMS` 的 80 个文件；② 用克隆里
+`submission/` 的系数与半径复算指纹。核对记录（含当次远端 HEAD、文件数、退出码）：
+`verify/out/published_clone_check.json`。
+
+首次执行结果：克隆 **146** 个文件，清单 **80 ok / 0 bad**（说明 `.gitattributes`
+的 `* -text` 确实保证了签出字节与清单一致），自检 **exit 0 / matches_reference = true**。
+
+> 时序说明：该 JSON 记录的是**执行当刻**的远端 HEAD；本文件随后还会被提交，因此
+> 远端 HEAD 可能比记录中的更新。这是"把核对记录也纳入版本控制"时固有的性质，
+> 不代表核对结果失效 —— 重跑脚本即可对任意 HEAD 重新核对。

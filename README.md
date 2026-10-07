@@ -22,6 +22,8 @@
 |---|---|
 | 结果与证明叙述 | `docs/RESULT.md` |
 | 研究工作报告（按官方 Prompt 撰写） | `docs/research-work-report.md` |
+| 参测者报告（按官方提交协议字段） | `docs/SUBMISSION.md` |
+| 提交包（系数 / 半径 / 自检原文） | `submission/` |
 | 机器可读最终答案 | `verify/out/FINAL_ANSWER.json` |
 | 端到端复现 | `python verify/run_all.py`（14 步 / 8 证书） |
 | 完整性清单（sha256） | `verify/SHA256SUMS` |

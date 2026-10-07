@@ -1,0 +1,1 @@
+python _recon/benchmark/diskcover_answer.py --n 12 --coefficients submission/coefficients.json --radius "$(cat submission/radius.txt)" --expected-sha256 35d604a5ea1b1fe5c52c30337743c1a8142b69827023284f9597e1ca9cb8f947

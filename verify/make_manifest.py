@@ -7,7 +7,8 @@ import os
 ROOT = r'E:\study\ADB'
 targets = []
 for d, exts in [('docs', ('.md',)), ('lean', ('.lean', '.cmd')), ('verify', ('.py',)),
-                ('tools', ('.py',)), ('runtime', ('.json', '.md', '.txt')), ('', ('.md',))]:
+                ('tools', ('.py',)), ('runtime', ('.json', '.md', '.txt')),
+                ('submission', ('.json', '.txt')), ('', ('.md',))]:
     base = os.path.join(ROOT, d) if d else ROOT
     for f in sorted(os.listdir(base)):
         p = os.path.join(base, f)
